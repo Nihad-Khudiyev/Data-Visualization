@@ -1,0 +1,8374 @@
+{
+    "nodes": [
+        {
+            "id": "Lockman-Bechtelar",
+            "group": 1
+        },
+        {
+            "id": "Mohr Inc",
+            "group": 1
+        },
+        {
+            "id": "Gusikowski LLC",
+            "group": 1
+        },
+        {
+            "id": "Ryan-Lesch",
+            "group": 1
+        },
+        {
+            "id": "Denesik-Lesch",
+            "group": 1
+        },
+        {
+            "id": "Donnelly Group",
+            "group": 1
+        },
+        {
+            "id": "Powlowski Group",
+            "group": 1
+        },
+        {
+            "id": "Kuvalis-Rogahn",
+            "group": 1
+        },
+        {
+            "id": "Runolfsson-Braun",
+            "group": 1
+        },
+        {
+            "id": "Feeney-Miller",
+            "group": 1
+        },
+        {
+            "id": "Durgan-Gleichner",
+            "group": 1
+        },
+        {
+            "id": "Sipes-Haag",
+            "group": 1
+        },
+        {
+            "id": "Toy-Beatty",
+            "group": 1
+        },
+        {
+            "id": "Quitzon Group",
+            "group": 1
+        },
+        {
+            "id": "Little-Ankunding",
+            "group": 1
+        },
+        {
+            "id": "Jast-West",
+            "group": 1
+        },
+        {
+            "id": "Fritsch LLC",
+            "group": 1
+        },
+        {
+            "id": "Schroeder and Sons",
+            "group": 1
+        },
+        {
+            "id": "McCullough LLC",
+            "group": 1
+        },
+        {
+            "id": "Renner and Sons",
+            "group": 1
+        },
+        {
+            "id": "Treutel-Hickle",
+            "group": 1
+        },
+        {
+            "id": "Spencer and Sons",
+            "group": 1
+        },
+        {
+            "id": "Ritchie-Bayer",
+            "group": 1
+        },
+        {
+            "id": "Reichel Group",
+            "group": 1
+        },
+        {
+            "id": "Pfeffer-Will",
+            "group": 1
+        },
+        {
+            "id": "Torphy-Schamberger",
+            "group": 1
+        },
+        {
+            "id": "Kuvalis Inc",
+            "group": 1
+        },
+        {
+            "id": "Ledner-Gerlach",
+            "group": 1
+        },
+        {
+            "id": "Okuneva Inc",
+            "group": 1
+        },
+        {
+            "id": "Kiehn Inc",
+            "group": 1
+        },
+        {
+            "id": "McLaughlin-Stiedemann",
+            "group": 1
+        },
+        {
+            "id": "Zboncak-Dare",
+            "group": 1
+        },
+        {
+            "id": "Grady-Shanahan",
+            "group": 1
+        },
+        {
+            "id": "Luettgen-Nikolaus",
+            "group": 1
+        },
+        {
+            "id": "Kemmer-Pouros",
+            "group": 1
+        },
+        {
+            "id": "Konopelski LLC",
+            "group": 1
+        },
+        {
+            "id": "Collins Group",
+            "group": 1
+        },
+        {
+            "id": "Wintheiser-Torphy",
+            "group": 1
+        },
+        {
+            "id": "Sanford LLC",
+            "group": 1
+        },
+        {
+            "id": "Grimes LLC",
+            "group": 1
+        },
+        {
+            "id": "Rutherford and Sons",
+            "group": 1
+        },
+        {
+            "id": "Kautzer-McGlynn",
+            "group": 1
+        },
+        {
+            "id": "Kemmer LLC",
+            "group": 1
+        },
+        {
+            "id": "Windler-Daniel",
+            "group": 1
+        },
+        {
+            "id": "Buckridge Group",
+            "group": 1
+        },
+        {
+            "id": "Willms-Lockman",
+            "group": 1
+        },
+        {
+            "id": "Lueilwitz-Goyette",
+            "group": 1
+        },
+        {
+            "id": "Heidenreich-Balistreri",
+            "group": 1
+        },
+        {
+            "id": "Legros and Sons",
+            "group": 1
+        },
+        {
+            "id": "Dach-Hauck",
+            "group": 1
+        },
+        {
+            "id": "Koepp LLC",
+            "group": 1
+        },
+        {
+            "id": "Upton and Sons",
+            "group": 1
+        },
+        {
+            "id": "Hamill-Ratke",
+            "group": 1
+        },
+        {
+            "id": "Herman and Sons",
+            "group": 1
+        },
+        {
+            "id": "Daugherty-Harris",
+            "group": 1
+        },
+        {
+            "id": "Denesik-O'Keefe",
+            "group": 1
+        },
+        {
+            "id": "Will Inc",
+            "group": 1
+        },
+        {
+            "id": "White-Leannon",
+            "group": 1
+        },
+        {
+            "id": "Bergnaum-Bosco",
+            "group": 1
+        },
+        {
+            "id": "Mraz-Cummerata",
+            "group": 1
+        },
+        {
+            "id": "Mosciski-Fay",
+            "group": 1
+        },
+        {
+            "id": "Paucek-Ebert",
+            "group": 1
+        },
+        {
+            "id": "McKenzie and Sons",
+            "group": 1
+        },
+        {
+            "id": "Emard-Cronin",
+            "group": 1
+        },
+        {
+            "id": "Barton Group",
+            "group": 1
+        },
+        {
+            "id": "Kub LLC",
+            "group": 1
+        },
+        {
+            "id": "Anderson-Spinka",
+            "group": 1
+        },
+        {
+            "id": "Howell-Graham",
+            "group": 1
+        },
+        {
+            "id": "Hills LLC",
+            "group": 1
+        },
+        {
+            "id": "Batz Inc",
+            "group": 1
+        },
+        {
+            "id": "Daniel and Sons",
+            "group": 1
+        },
+        {
+            "id": "Boehm-Bayer",
+            "group": 1
+        },
+        {
+            "id": "Hayes Inc",
+            "group": 1
+        },
+        {
+            "id": "Lowe Inc",
+            "group": 1
+        },
+        {
+            "id": "Schuppe Inc",
+            "group": 1
+        },
+        {
+            "id": "Nitzsche LLC",
+            "group": 1
+        },
+        {
+            "id": "Trantow and Sons",
+            "group": 1
+        },
+        {
+            "id": "Green-Kuphal",
+            "group": 1
+        },
+        {
+            "id": "Boyle-Kunze",
+            "group": 1
+        },
+        {
+            "id": "Breitenberg Group",
+            "group": 1
+        },
+        {
+            "id": "Kris and Sons",
+            "group": 1
+        },
+        {
+            "id": "Ernser Inc",
+            "group": 1
+        },
+        {
+            "id": "Sporer Group",
+            "group": 1
+        },
+        {
+            "id": "Murphy-Metz",
+            "group": 1
+        },
+        {
+            "id": "Lueilwitz-Langworth",
+            "group": 1
+        },
+        {
+            "id": "Reinger and Sons",
+            "group": 1
+        },
+        {
+            "id": "Wunsch-Fritsch",
+            "group": 1
+        },
+        {
+            "id": "Haag-Greenfelder",
+            "group": 1
+        },
+        {
+            "id": "Parker Group",
+            "group": 1
+        },
+        {
+            "id": "Rowe Inc",
+            "group": 1
+        },
+        {
+            "id": "Baumbach-Price",
+            "group": 1
+        },
+        {
+            "id": "Murray-Stracke",
+            "group": 1
+        },
+        {
+            "id": "Farrell Group",
+            "group": 1
+        },
+        {
+            "id": "Kuhic Group",
+            "group": 1
+        },
+        {
+            "id": "Bruen-Schimmel",
+            "group": 1
+        },
+        {
+            "id": "Connelly-Cremin",
+            "group": 1
+        },
+        {
+            "id": "Boyle-Mosciski",
+            "group": 1
+        },
+        {
+            "id": "Raynor Group",
+            "group": 1
+        },
+        {
+            "id": "Cronin-Schmitt",
+            "group": 1
+        },
+        {
+            "id": "Prohaska-Batz",
+            "group": 1
+        },
+        {
+            "id": "Barrows-Powlowski",
+            "group": 1
+        },
+        {
+            "id": "Dibbert Inc",
+            "group": 1
+        },
+        {
+            "id": "Reynolds LLC",
+            "group": 1
+        },
+        {
+            "id": "Schulist LLC",
+            "group": 1
+        },
+        {
+            "id": "Hettinger-Renner",
+            "group": 1
+        },
+        {
+            "id": "Jacobs LLC",
+            "group": 1
+        },
+        {
+            "id": "McKenzie-Harber",
+            "group": 1
+        },
+        {
+            "id": "Howe-Jacobson",
+            "group": 1
+        },
+        {
+            "id": "Bosco and Sons",
+            "group": 1
+        },
+        {
+            "id": "O'Conner-Stokes",
+            "group": 1
+        },
+        {
+            "id": "Leuschke and Sons",
+            "group": 1
+        },
+        {
+            "id": "Bogisich Group",
+            "group": 1
+        },
+        {
+            "id": "Casper and Sons",
+            "group": 1
+        },
+        {
+            "id": "MacGyver-Lockman",
+            "group": 1
+        },
+        {
+            "id": "Treutel-Rodriguez",
+            "group": 1
+        },
+        {
+            "id": "Russel and Sons",
+            "group": 1
+        },
+        {
+            "id": "Harber Group",
+            "group": 1
+        },
+        {
+            "id": "Rogahn Group",
+            "group": 1
+        },
+        {
+            "id": "Langworth Inc",
+            "group": 1
+        },
+        {
+            "id": "Murphy-Hirthe",
+            "group": 1
+        },
+        {
+            "id": "Metz-O'Kon",
+            "group": 1
+        },
+        {
+            "id": "Lynch-Kiehn",
+            "group": 1
+        },
+        {
+            "id": "O'Keefe-Schneider",
+            "group": 1
+        },
+        {
+            "id": "Jacobs-McGlynn",
+            "group": 1
+        },
+        {
+            "id": "Mitchell Group",
+            "group": 1
+        },
+        {
+            "id": "Farrell-Grady",
+            "group": 1
+        },
+        {
+            "id": "Mayer and Sons",
+            "group": 1
+        },
+        {
+            "id": "Mueller Inc",
+            "group": 1
+        },
+        {
+            "id": "Mosciski Group",
+            "group": 1
+        },
+        {
+            "id": "Kub and Sons",
+            "group": 1
+        },
+        {
+            "id": "Ernser-Christiansen",
+            "group": 1
+        },
+        {
+            "id": "Johns-Donnelly",
+            "group": 1
+        },
+        {
+            "id": "Balistreri-Nitzsche",
+            "group": 1
+        },
+        {
+            "id": "Trantow-Lemke",
+            "group": 1
+        },
+        {
+            "id": "Murphy-Fay",
+            "group": 1
+        },
+        {
+            "id": "Kreiger Group",
+            "group": 1
+        },
+        {
+            "id": "King Group",
+            "group": 1
+        },
+        {
+            "id": "Towne-Weber",
+            "group": 1
+        },
+        {
+            "id": "Bruen-Smitham",
+            "group": 1
+        },
+        {
+            "id": "Lindgren and Sons",
+            "group": 1
+        },
+        {
+            "id": "Graham Inc",
+            "group": 1
+        },
+        {
+            "id": "Wunsch LLC",
+            "group": 1
+        },
+        {
+            "id": "Howell-Kautzer",
+            "group": 1
+        },
+        {
+            "id": "Willms LLC",
+            "group": 1
+        },
+        {
+            "id": "Prohaska-Lemke",
+            "group": 1
+        },
+        {
+            "id": "Hansen-Kessler",
+            "group": 1
+        },
+        {
+            "id": "Koss Group",
+            "group": 1
+        },
+        {
+            "id": "Kling LLC",
+            "group": 1
+        },
+        {
+            "id": "Cartwright Inc",
+            "group": 1
+        },
+        {
+            "id": "Swift-Herzog",
+            "group": 1
+        },
+        {
+            "id": "Leannon LLC",
+            "group": 1
+        },
+        {
+            "id": "Reichert-Leuschke",
+            "group": 1
+        },
+        {
+            "id": "Jacobson-Strosin",
+            "group": 1
+        },
+        {
+            "id": "Towne-Jakubowski",
+            "group": 1
+        },
+        {
+            "id": "Nikolaus LLC",
+            "group": 1
+        },
+        {
+            "id": "Kemmer-Smith",
+            "group": 1
+        },
+        {
+            "id": "Schumm Inc",
+            "group": 1
+        },
+        {
+            "id": "Hoeger-Blick",
+            "group": 1
+        },
+        {
+            "id": "Waters LLC",
+            "group": 1
+        },
+        {
+            "id": "Schroeder-Sanford",
+            "group": 1
+        },
+        {
+            "id": "Reinger Inc",
+            "group": 1
+        },
+        {
+            "id": "Abbott-Schmitt",
+            "group": 1
+        },
+        {
+            "id": "Wolf-Denesik",
+            "group": 1
+        },
+        {
+            "id": "Predovic-Leuschke",
+            "group": 1
+        },
+        {
+            "id": "Bahringer-Ernser",
+            "group": 1
+        },
+        {
+            "id": "Parisian and Sons",
+            "group": 1
+        },
+        {
+            "id": "Dare and Sons",
+            "group": 1
+        },
+        {
+            "id": "West-Ondricka",
+            "group": 1
+        },
+        {
+            "id": "Dietrich Group",
+            "group": 1
+        },
+        {
+            "id": "Luettgen Inc",
+            "group": 1
+        },
+        {
+            "id": "Hayes Group",
+            "group": 1
+        },
+        {
+            "id": "Donnelly Inc",
+            "group": 1
+        },
+        {
+            "id": "Abbott-Von",
+            "group": 1
+        },
+        {
+            "id": "Denesik-Monahan",
+            "group": 1
+        },
+        {
+            "id": "Klocko Inc",
+            "group": 1
+        },
+        {
+            "id": "Friesen-Kautzer",
+            "group": 1
+        },
+        {
+            "id": "Kris-Deckow",
+            "group": 1
+        },
+        {
+            "id": "Schmitt-Hudson",
+            "group": 1
+        },
+        {
+            "id": "Dickinson LLC",
+            "group": 1
+        },
+        {
+            "id": "Ferry and Sons",
+            "group": 1
+        },
+        {
+            "id": "Gutmann-Braun",
+            "group": 1
+        },
+        {
+            "id": "Hirthe-McClure",
+            "group": 1
+        },
+        {
+            "id": "Skiles-Kertzmann",
+            "group": 1
+        },
+        {
+            "id": "Hudson-Robel",
+            "group": 1
+        },
+        {
+            "id": "Watsica Inc",
+            "group": 1
+        },
+        {
+            "id": "Boehm Group",
+            "group": 1
+        },
+        {
+            "id": "Becker-Torp",
+            "group": 1
+        },
+        {
+            "id": "Jaskolski-Quigley",
+            "group": 1
+        },
+        {
+            "id": "McClure LLC",
+            "group": 1
+        },
+        {
+            "id": "Schinner Group",
+            "group": 1
+        },
+        {
+            "id": "Mraz and Sons",
+            "group": 1
+        },
+        {
+            "id": "O'Kon-Klocko",
+            "group": 1
+        },
+        {
+            "id": "Zulauf-Ryan",
+            "group": 1
+        },
+        {
+            "id": "Murray Inc",
+            "group": 1
+        },
+        {
+            "id": "Lehner Group",
+            "group": 1
+        },
+        {
+            "id": "Harber-Kling",
+            "group": 1
+        },
+        {
+            "id": "Ritchie Group",
+            "group": 1
+        },
+        {
+            "id": "Friesen and Sons",
+            "group": 1
+        },
+        {
+            "id": "Willms-Rau",
+            "group": 1
+        },
+        {
+            "id": "Carroll-Feest",
+            "group": 1
+        },
+        {
+            "id": "Braun-Powlowski",
+            "group": 1
+        },
+        {
+            "id": "Kuhn Inc",
+            "group": 1
+        },
+        {
+            "id": "Parisian-Wiza",
+            "group": 1
+        },
+        {
+            "id": "Balistreri and Sons",
+            "group": 1
+        },
+        {
+            "id": "Dibbert-Kshlerin",
+            "group": 1
+        },
+        {
+            "id": "Wolf-Mitchell",
+            "group": 1
+        },
+        {
+            "id": "Schamberger-Schmidt",
+            "group": 1
+        },
+        {
+            "id": "Bechtelar-Volkman",
+            "group": 1
+        },
+        {
+            "id": "Schowalter-Bosco",
+            "group": 1
+        },
+        {
+            "id": "Rowe-Treutel",
+            "group": 1
+        },
+        {
+            "id": "Stanton-Wisozk",
+            "group": 1
+        },
+        {
+            "id": "Kuhic-Beier",
+            "group": 1
+        },
+        {
+            "id": "Graham-Upton",
+            "group": 1
+        },
+        {
+            "id": "Schultz-Mertz",
+            "group": 1
+        },
+        {
+            "id": "Rutherford LLC",
+            "group": 1
+        },
+        {
+            "id": "Gerlach-Sanford",
+            "group": 1
+        },
+        {
+            "id": "Davis Inc",
+            "group": 1
+        },
+        {
+            "id": "Wisozk Group",
+            "group": 1
+        },
+        {
+            "id": "Lebsack-Prosacco",
+            "group": 1
+        },
+        {
+            "id": "Brekke LLC",
+            "group": 1
+        },
+        {
+            "id": "Luettgen-Kuhlman",
+            "group": 1
+        },
+        {
+            "id": "Kuhic-Hintz",
+            "group": 1
+        },
+        {
+            "id": "Hagenes Inc",
+            "group": 1
+        },
+        {
+            "id": "Wintheiser-Wilderman",
+            "group": 1
+        },
+        {
+            "id": "Lemke and Sons",
+            "group": 1
+        },
+        {
+            "id": "Wehner and Sons",
+            "group": 1
+        },
+        {
+            "id": "Goldner-Hoeger",
+            "group": 1
+        },
+        {
+            "id": "Vandervort Inc",
+            "group": 1
+        },
+        {
+            "id": "Ruecker-Tillman",
+            "group": 1
+        },
+        {
+            "id": "O'Conner-Lind",
+            "group": 1
+        },
+        {
+            "id": "Larkin Group",
+            "group": 1
+        },
+        {
+            "id": "Kuvalis-Cruickshank",
+            "group": 1
+        },
+        {
+            "id": "Jakubowski Inc",
+            "group": 1
+        },
+        {
+            "id": "Lebsack-Wintheiser",
+            "group": 1
+        },
+        {
+            "id": "Parker-Renner",
+            "group": 1
+        },
+        {
+            "id": "Labadie Inc",
+            "group": 1
+        },
+        {
+            "id": "O'Kon Group",
+            "group": 1
+        },
+        {
+            "id": "Feest LLC",
+            "group": 1
+        },
+        {
+            "id": "Bechtelar-Grady",
+            "group": 1
+        },
+        {
+            "id": "Muller-Lebsack",
+            "group": 1
+        },
+        {
+            "id": "Hilpert LLC",
+            "group": 1
+        },
+        {
+            "id": "Mosciski-Spencer",
+            "group": 1
+        },
+        {
+            "id": "Rolfson Inc",
+            "group": 1
+        },
+        {
+            "id": "McLaughlin Inc",
+            "group": 1
+        },
+        {
+            "id": "Simonis-Hilll",
+            "group": 1
+        },
+        {
+            "id": "Koelpin LLC",
+            "group": 1
+        },
+        {
+            "id": "Toy-Grant",
+            "group": 1
+        },
+        {
+            "id": "Kshlerin LLC",
+            "group": 1
+        },
+        {
+            "id": "Stoltenberg-Crooks",
+            "group": 1
+        },
+        {
+            "id": "Cremin-Lindgren",
+            "group": 1
+        },
+        {
+            "id": "Moore LLC",
+            "group": 1
+        },
+        {
+            "id": "Boyer-Carroll",
+            "group": 1
+        },
+        {
+            "id": "Stroman LLC",
+            "group": 1
+        },
+        {
+            "id": "Hodkiewicz LLC",
+            "group": 1
+        },
+        {
+            "id": "Balistreri-Sipes",
+            "group": 1
+        },
+        {
+            "id": "Hamill-Stamm",
+            "group": 1
+        },
+        {
+            "id": "Prohaska LLC",
+            "group": 1
+        },
+        {
+            "id": "Runte-Vandervort",
+            "group": 1
+        },
+        {
+            "id": "Schmitt LLC",
+            "group": 1
+        },
+        {
+            "id": "Schuppe-Upton",
+            "group": 1
+        },
+        {
+            "id": "Koepp-Hayes",
+            "group": 1
+        },
+        {
+            "id": "Anderson Group",
+            "group": 1
+        },
+        {
+            "id": "Lockman-Little",
+            "group": 1
+        },
+        {
+            "id": "Koss-Daniel",
+            "group": 1
+        },
+        {
+            "id": "VonRueden LLC",
+            "group": 1
+        },
+        {
+            "id": "Bradtke-Purdy",
+            "group": 1
+        },
+        {
+            "id": "Haley Group",
+            "group": 1
+        },
+        {
+            "id": "Hilpert Inc",
+            "group": 1
+        },
+        {
+            "id": "Fay-Mohr",
+            "group": 1
+        },
+        {
+            "id": "Yundt and Sons",
+            "group": 1
+        },
+        {
+            "id": "Cummings-Kertzmann",
+            "group": 1
+        },
+        {
+            "id": "Reichert Group",
+            "group": 1
+        },
+        {
+            "id": "Smitham-Pagac",
+            "group": 1
+        },
+        {
+            "id": "Kovacek LLC",
+            "group": 1
+        },
+        {
+            "id": "Prosacco and Sons",
+            "group": 1
+        },
+        {
+            "id": "Hartmann and Sons",
+            "group": 1
+        },
+        {
+            "id": "Grant-Willms",
+            "group": 1
+        },
+        {
+            "id": "Heathcote-Romaguera",
+            "group": 1
+        },
+        {
+            "id": "Prohaska-Dickens",
+            "group": 1
+        },
+        {
+            "id": "Beahan Group",
+            "group": 1
+        },
+        {
+            "id": "Schumm-Reinger",
+            "group": 1
+        },
+        {
+            "id": "Rempel and Sons",
+            "group": 1
+        },
+        {
+            "id": "Feeney-Hills",
+            "group": 1
+        },
+        {
+            "id": "Streich Inc",
+            "group": 1
+        },
+        {
+            "id": "Cremin-Breitenberg",
+            "group": 1
+        },
+        {
+            "id": "Jakubowski-Greenfelder",
+            "group": 1
+        },
+        {
+            "id": "Cruickshank-Schaden",
+            "group": 1
+        },
+        {
+            "id": "Kutch LLC",
+            "group": 1
+        },
+        {
+            "id": "Pfannerstill Inc",
+            "group": 1
+        },
+        {
+            "id": "Cummings-Runolfsdottir",
+            "group": 1
+        },
+        {
+            "id": "Schiller-Doyle",
+            "group": 1
+        },
+        {
+            "id": "Dooley Inc",
+            "group": 1
+        },
+        {
+            "id": "Boehm and Sons",
+            "group": 1
+        },
+        {
+            "id": "Dooley-Klein",
+            "group": 1
+        },
+        {
+            "id": "Hettinger LLC",
+            "group": 1
+        },
+        {
+            "id": "Cummings-Shanahan",
+            "group": 1
+        },
+        {
+            "id": "Heathcote Inc",
+            "group": 1
+        },
+        {
+            "id": "Block and Sons",
+            "group": 1
+        },
+        {
+            "id": "Kovacek Group",
+            "group": 1
+        },
+        {
+            "id": "Fahey and Sons",
+            "group": 1
+        },
+        {
+            "id": "Klocko-Runte",
+            "group": 1
+        },
+        {
+            "id": "Kling-Walker",
+            "group": 1
+        },
+        {
+            "id": "O'Hara and Sons",
+            "group": 1
+        },
+        {
+            "id": "Dibbert-Lakin",
+            "group": 1
+        },
+        {
+            "id": "Frami-Botsford",
+            "group": 1
+        },
+        {
+            "id": "Bogisich-Brown",
+            "group": 1
+        },
+        {
+            "id": "Strosin LLC",
+            "group": 1
+        },
+        {
+            "id": "Nolan Inc",
+            "group": 1
+        },
+        {
+            "id": "Bartoletti-Stehr",
+            "group": 1
+        },
+        {
+            "id": "Fritsch Group",
+            "group": 1
+        },
+        {
+            "id": "Lebsack-Ondricka",
+            "group": 1
+        },
+        {
+            "id": "Rosenbaum Inc",
+            "group": 1
+        },
+        {
+            "id": "Howell and Sons",
+            "group": 1
+        },
+        {
+            "id": "Paucek-Howell",
+            "group": 1
+        },
+        {
+            "id": "Kshlerin Inc",
+            "group": 1
+        },
+        {
+            "id": "Beier-Bogan",
+            "group": 1
+        },
+        {
+            "id": "Baumbach-Schaefer",
+            "group": 1
+        },
+        {
+            "id": "Morissette-Runolfsdottir",
+            "group": 1
+        },
+        {
+            "id": "Bogan and Sons",
+            "group": 1
+        },
+        {
+            "id": "Predovic Group",
+            "group": 1
+        },
+        {
+            "id": "Hoppe-Ernser",
+            "group": 1
+        },
+        {
+            "id": "Raynor-Lockman",
+            "group": 1
+        },
+        {
+            "id": "Parisian Inc",
+            "group": 1
+        },
+        {
+            "id": "Zemlak LLC",
+            "group": 1
+        },
+        {
+            "id": "Gulgowski-Hintz",
+            "group": 1
+        },
+        {
+            "id": "Marks and Sons",
+            "group": 1
+        },
+        {
+            "id": "Tromp Inc",
+            "group": 1
+        },
+        {
+            "id": "Skiles and Sons",
+            "group": 1
+        },
+        {
+            "id": "Pollich-Jacobs",
+            "group": 1
+        },
+        {
+            "id": "Ward Group",
+            "group": 1
+        },
+        {
+            "id": "Wunsch Group",
+            "group": 1
+        },
+        {
+            "id": "Stamm LLC",
+            "group": 1
+        },
+        {
+            "id": "Kuhic Inc",
+            "group": 1
+        },
+        {
+            "id": "Brown-Hamill",
+            "group": 1
+        },
+        {
+            "id": "Thiel-Nikolaus",
+            "group": 1
+        },
+        {
+            "id": "Sauer-Romaguera",
+            "group": 1
+        },
+        {
+            "id": "Brekke-Smith",
+            "group": 1
+        },
+        {
+            "id": "Swaniawski-Franecki",
+            "group": 1
+        },
+        {
+            "id": "Buckridge-Auer",
+            "group": 1
+        },
+        {
+            "id": "Heaney-Emard",
+            "group": 1
+        },
+        {
+            "id": "Kilback-Bins",
+            "group": 1
+        },
+        {
+            "id": "Littel LLC",
+            "group": 1
+        },
+        {
+            "id": "Bradtke-Pagac",
+            "group": 1
+        },
+        {
+            "id": "Grant Group",
+            "group": 1
+        },
+        {
+            "id": "Bernier Group",
+            "group": 1
+        },
+        {
+            "id": "Dibbert LLC",
+            "group": 1
+        },
+        {
+            "id": "Wolf Group",
+            "group": 1
+        },
+        {
+            "id": "Buckridge and Sons",
+            "group": 1
+        },
+        {
+            "id": "Kautzer Inc",
+            "group": 1
+        },
+        {
+            "id": "Schaefer Inc",
+            "group": 1
+        },
+        {
+            "id": "Walker-Oberbrunner",
+            "group": 1
+        },
+        {
+            "id": "Bosco-Bergnaum",
+            "group": 1
+        },
+        {
+            "id": "Kub-Hahn",
+            "group": 1
+        },
+        {
+            "id": "McKenzie LLC",
+            "group": 1
+        },
+        {
+            "id": "Russel Group",
+            "group": 1
+        },
+        {
+            "id": "Leuschke-Bailey",
+            "group": 1
+        },
+        {
+            "id": "Welch-Lindgren",
+            "group": 1
+        },
+        {
+            "id": "Dicki-Rice",
+            "group": 1
+        },
+        {
+            "id": "Medhurst LLC",
+            "group": 1
+        },
+        {
+            "id": "Huel-Runolfsdottir",
+            "group": 1
+        },
+        {
+            "id": "Pfannerstill LLC",
+            "group": 1
+        },
+        {
+            "id": "Farrell-Roob",
+            "group": 1
+        },
+        {
+            "id": "Rowe-Koch",
+            "group": 1
+        },
+        {
+            "id": "Stoltenberg Inc",
+            "group": 1
+        },
+        {
+            "id": "Towne Group",
+            "group": 1
+        },
+        {
+            "id": "Bayer-Kozey",
+            "group": 1
+        },
+        {
+            "id": "Connelly LLC",
+            "group": 1
+        },
+        {
+            "id": "Conn Inc",
+            "group": 1
+        },
+        {
+            "id": "Ullrich Group",
+            "group": 1
+        },
+        {
+            "id": "Moore-Bartoletti",
+            "group": 1
+        },
+        {
+            "id": "Weissnat-Lehner",
+            "group": 1
+        },
+        {
+            "id": "Padberg and Sons",
+            "group": 1
+        },
+        {
+            "id": "Bogisich and Sons",
+            "group": 1
+        },
+        {
+            "id": "Rau-Reilly",
+            "group": 1
+        },
+        {
+            "id": "Dooley Group",
+            "group": 1
+        },
+        {
+            "id": "Runte LLC",
+            "group": 1
+        },
+        {
+            "id": "Roberts Group",
+            "group": 1
+        },
+        {
+            "id": "Lowe-Ziemann",
+            "group": 1
+        },
+        {
+            "id": "Champlin and Sons",
+            "group": 1
+        },
+        {
+            "id": "Sauer Group",
+            "group": 1
+        },
+        {
+            "id": "Schaden LLC",
+            "group": 1
+        },
+        {
+            "id": "Welch-Goldner",
+            "group": 1
+        },
+        {
+            "id": "Spinka-Beer",
+            "group": 1
+        },
+        {
+            "id": "Barrows Group",
+            "group": 1
+        },
+        {
+            "id": "Parisian LLC",
+            "group": 1
+        },
+        {
+            "id": "Kunze-Nikolaus",
+            "group": 1
+        },
+        {
+            "id": "Mayer Group",
+            "group": 1
+        },
+        {
+            "id": "Kertzmann Inc",
+            "group": 1
+        },
+        {
+            "id": "Paucek-Gibson",
+            "group": 1
+        },
+        {
+            "id": "Wisoky-Fahey",
+            "group": 1
+        },
+        {
+            "id": "Daugherty-Cronin",
+            "group": 1
+        },
+        {
+            "id": "Hudson Group",
+            "group": 1
+        },
+        {
+            "id": "Oberbrunner-Predovic",
+            "group": 1
+        },
+        {
+            "id": "McGlynn Inc",
+            "group": 1
+        },
+        {
+            "id": "Stiedemann Inc",
+            "group": 1
+        },
+        {
+            "id": "McCullough-Purdy",
+            "group": 1
+        },
+        {
+            "id": "Kris-Langosh",
+            "group": 1
+        },
+        {
+            "id": "Pollich-Boyle",
+            "group": 1
+        },
+        {
+            "id": "Funk-Kuphal",
+            "group": 1
+        },
+        {
+            "id": "Parker-Murray",
+            "group": 1
+        },
+        {
+            "id": "Crooks and Sons",
+            "group": 1
+        },
+        {
+            "id": "Rice-Ward",
+            "group": 1
+        },
+        {
+            "id": "Howe-Dooley",
+            "group": 1
+        },
+        {
+            "id": "Terry-Runolfsdottir",
+            "group": 1
+        },
+        {
+            "id": "Rath-Reichel",
+            "group": 1
+        },
+        {
+            "id": "Quigley-Hodkiewicz",
+            "group": 1
+        },
+        {
+            "id": "Wisozk-Schuster",
+            "group": 1
+        },
+        {
+            "id": "Cronin LLC",
+            "group": 1
+        },
+        {
+            "id": "Muller Group",
+            "group": 1
+        },
+        {
+            "id": "Little and Sons",
+            "group": 1
+        },
+        {
+            "id": "Renner Group",
+            "group": 1
+        },
+        {
+            "id": "King-Steuber",
+            "group": 1
+        },
+        {
+            "id": "Aufderhar Group",
+            "group": 1
+        },
+        {
+            "id": "Lindgren Group",
+            "group": 1
+        },
+        {
+            "id": "Wisoky LLC",
+            "group": 1
+        },
+        {
+            "id": "Casper Group",
+            "group": 1
+        },
+        {
+            "id": "McClure-Wolf",
+            "group": 1
+        },
+        {
+            "id": "Schoen-Hamill",
+            "group": 1
+        },
+        {
+            "id": "Moen-Zboncak",
+            "group": 1
+        },
+        {
+            "id": "McKenzie-McCullough",
+            "group": 1
+        },
+        {
+            "id": "Kutch-Watsica",
+            "group": 1
+        },
+        {
+            "id": "Ferry-Green",
+            "group": 1
+        },
+        {
+            "id": "Ruecker-Leannon",
+            "group": 1
+        },
+        {
+            "id": "Quitzon LLC",
+            "group": 1
+        },
+        {
+            "id": "Runolfsdottir Inc",
+            "group": 1
+        },
+        {
+            "id": "Herzog Group",
+            "group": 1
+        },
+        {
+            "id": "Turcotte-Rolfson",
+            "group": 1
+        },
+        {
+            "id": "Cormier LLC",
+            "group": 1
+        },
+        {
+            "id": "Pollich-Kuphal",
+            "group": 1
+        },
+        {
+            "id": "Stehr-McDermott",
+            "group": 1
+        },
+        {
+            "id": "Williamson LLC",
+            "group": 1
+        },
+        {
+            "id": "Hirthe and Sons",
+            "group": 1
+        },
+        {
+            "id": "Goyette LLC",
+            "group": 1
+        },
+        {
+            "id": "Sawayn-Langosh",
+            "group": 1
+        },
+        {
+            "id": "Bashirian-Reinger",
+            "group": 1
+        },
+        {
+            "id": "D'Amore-Roberts",
+            "group": 1
+        },
+        {
+            "id": "Brakus Inc",
+            "group": 1
+        },
+        {
+            "id": "Waelchi-Tromp",
+            "group": 1
+        },
+        {
+            "id": "Ratke-Hackett",
+            "group": 1
+        },
+        {
+            "id": "Lang Inc",
+            "group": 1
+        },
+        {
+            "id": "Aufderhar-Larkin",
+            "group": 1
+        },
+        {
+            "id": "Jacobi Group",
+            "group": 1
+        },
+        {
+            "id": "Davis-Zemlak",
+            "group": 1
+        },
+        {
+            "id": "Ernser and Sons",
+            "group": 1
+        },
+        {
+            "id": "Koelpin-Pouros",
+            "group": 1
+        },
+        {
+            "id": "Waters and Sons",
+            "group": 1
+        },
+        {
+            "id": "Osinski and Sons",
+            "group": 1
+        },
+        {
+            "id": "Gerhold and Sons",
+            "group": 1
+        },
+        {
+            "id": "Toy LLC",
+            "group": 1
+        },
+        {
+            "id": "Lebsack-Simonis",
+            "group": 1
+        },
+        {
+            "id": "Becker LLC",
+            "group": 1
+        },
+        {
+            "id": "Lakin and Sons",
+            "group": 1
+        },
+        {
+            "id": "Waters-Senger",
+            "group": 1
+        },
+        {
+            "id": "Stracke-Dare",
+            "group": 1
+        },
+        {
+            "id": "Batz Group",
+            "group": 1
+        },
+        {
+            "id": "Wyman-Bechtelar",
+            "group": 1
+        },
+        {
+            "id": "Paucek-Schuster",
+            "group": 1
+        },
+        {
+            "id": "Paucek-Jast",
+            "group": 1
+        },
+        {
+            "id": "Kerluke Inc",
+            "group": 1
+        },
+        {
+            "id": "Hermann LLC",
+            "group": 1
+        },
+        {
+            "id": "Bogan-Emmerich",
+            "group": 1
+        },
+        {
+            "id": "Bailey and Sons",
+            "group": 1
+        },
+        {
+            "id": "Price Inc",
+            "group": 1
+        },
+        {
+            "id": "Kautzer Group",
+            "group": 1
+        },
+        {
+            "id": "Kunze-Johns",
+            "group": 1
+        },
+        {
+            "id": "Ward-Rowe",
+            "group": 1
+        },
+        {
+            "id": "Zieme Group",
+            "group": 1
+        },
+        {
+            "id": "Fay-Treutel",
+            "group": 1
+        },
+        {
+            "id": "Prohaska Group",
+            "group": 1
+        },
+        {
+            "id": "Crooks-Haley",
+            "group": 1
+        },
+        {
+            "id": "Streich-MacGyver",
+            "group": 1
+        },
+        {
+            "id": "McDermott-Conn",
+            "group": 1
+        },
+        {
+            "id": "West LLC",
+            "group": 1
+        },
+        {
+            "id": "Reichel-Beatty",
+            "group": 1
+        },
+        {
+            "id": "Becker-Wolf",
+            "group": 1
+        },
+        {
+            "id": "Mertz-O'Hara",
+            "group": 1
+        },
+        {
+            "id": "Schultz-Lindgren",
+            "group": 1
+        },
+        {
+            "id": "Schuster-Hilll",
+            "group": 1
+        },
+        {
+            "id": "Willms Group",
+            "group": 1
+        },
+        {
+            "id": "Parker-Bradtke",
+            "group": 1
+        },
+        {
+            "id": "Volkman-Abbott",
+            "group": 1
+        },
+        {
+            "id": "Heller Group",
+            "group": 1
+        },
+        {
+            "id": "Bechtelar LLC",
+            "group": 1
+        },
+        {
+            "id": "Jacobson Group",
+            "group": 1
+        },
+        {
+            "id": "Ratke Inc",
+            "group": 1
+        },
+        {
+            "id": "Fahey LLC",
+            "group": 1
+        },
+        {
+            "id": "Murphy-Bruen",
+            "group": 1
+        },
+        {
+            "id": "Lebsack-Morar",
+            "group": 1
+        },
+        {
+            "id": "Ankunding-Waters",
+            "group": 1
+        },
+        {
+            "id": "Sawayn Group",
+            "group": 1
+        },
+        {
+            "id": "Quigley-Harber",
+            "group": 1
+        },
+        {
+            "id": "Lynch Group",
+            "group": 1
+        },
+        {
+            "id": "Russel-Weber",
+            "group": 1
+        },
+        {
+            "id": "Parker-Abernathy",
+            "group": 1
+        },
+        {
+            "id": "Lowe Group",
+            "group": 1
+        },
+        {
+            "id": "Smitham and Sons",
+            "group": 1
+        },
+        {
+            "id": "Heidenreich-Stracke",
+            "group": 1
+        },
+        {
+            "id": "Bailey-Quigley",
+            "group": 1
+        },
+        {
+            "id": "Ledner-Cummings",
+            "group": 1
+        },
+        {
+            "id": "Kiehn-Rohan",
+            "group": 1
+        },
+        {
+            "id": "Rau and Sons",
+            "group": 1
+        },
+        {
+            "id": "Schmeler Group",
+            "group": 1
+        },
+        {
+            "id": "Legros Group",
+            "group": 1
+        },
+        {
+            "id": "Walter Group",
+            "group": 1
+        },
+        {
+            "id": "West-VonRueden",
+            "group": 1
+        },
+        {
+            "id": "Bergnaum LLC",
+            "group": 1
+        },
+        {
+            "id": "Hermiston-Wunsch",
+            "group": 1
+        },
+        {
+            "id": "Johnson Inc",
+            "group": 1
+        },
+        {
+            "id": "Ruecker-Klein",
+            "group": 1
+        },
+        {
+            "id": "Schinner-Lueilwitz",
+            "group": 1
+        },
+        {
+            "id": "Walker-Deckow",
+            "group": 1
+        },
+        {
+            "id": "Bruen and Sons",
+            "group": 1
+        },
+        {
+            "id": "Wunsch-Sipes",
+            "group": 1
+        },
+        {
+            "id": "Volkman Inc",
+            "group": 1
+        },
+        {
+            "id": "O'Reilly Inc",
+            "group": 1
+        },
+        {
+            "id": "Lesch-Kemmer",
+            "group": 1
+        },
+        {
+            "id": "Kuvalis-Bahringer",
+            "group": 1
+        },
+        {
+            "id": "Brekke and Sons",
+            "group": 1
+        },
+        {
+            "id": "Pacocha and Sons",
+            "group": 1
+        },
+        {
+            "id": "Monahan-Dickinson",
+            "group": 1
+        },
+        {
+            "id": "Connelly-Glover",
+            "group": 1
+        },
+        {
+            "id": "Schneider-Wunsch",
+            "group": 1
+        },
+        {
+            "id": "Ledner-Hilpert",
+            "group": 1
+        },
+        {
+            "id": "McCullough-Rohan",
+            "group": 1
+        },
+        {
+            "id": "Nicolas Inc",
+            "group": 1
+        },
+        {
+            "id": "Parisian-Donnelly",
+            "group": 1
+        },
+        {
+            "id": "Parker Inc",
+            "group": 1
+        },
+        {
+            "id": "Monahan-Rau",
+            "group": 1
+        },
+        {
+            "id": "Becker-Heller",
+            "group": 1
+        },
+        {
+            "id": "Considine-Kutch",
+            "group": 1
+        },
+        {
+            "id": "Dach and Sons",
+            "group": 1
+        },
+        {
+            "id": "Roberts LLC",
+            "group": 1
+        },
+        {
+            "id": "Nader-Tremblay",
+            "group": 1
+        },
+        {
+            "id": "Schneider Inc",
+            "group": 1
+        },
+        {
+            "id": "Jerde Group",
+            "group": 1
+        },
+        {
+            "id": "Wyman-Hackett",
+            "group": 1
+        },
+        {
+            "id": "Champlin Inc",
+            "group": 1
+        },
+        {
+            "id": "Blick and Sons",
+            "group": 1
+        },
+        {
+            "id": "Schoen Group",
+            "group": 1
+        },
+        {
+            "id": "Brekke-Fritsch",
+            "group": 1
+        },
+        {
+            "id": "Weimann-Brown",
+            "group": 1
+        },
+        {
+            "id": "Keeling-Wehner",
+            "group": 1
+        },
+        {
+            "id": "Lynch-Goyette",
+            "group": 1
+        },
+        {
+            "id": "Zieme and Sons",
+            "group": 1
+        },
+        {
+            "id": "Dicki-Goodwin",
+            "group": 1
+        },
+        {
+            "id": "Hansen Group",
+            "group": 1
+        },
+        {
+            "id": "Schultz Inc",
+            "group": 1
+        },
+        {
+            "id": "Pagac and Sons",
+            "group": 1
+        },
+        {
+            "id": "Sipes-Mills",
+            "group": 1
+        },
+        {
+            "id": "Cartwright-Kutch",
+            "group": 1
+        },
+        {
+            "id": "Wolf-Schinner",
+            "group": 1
+        },
+        {
+            "id": "Lang-Okuneva",
+            "group": 1
+        },
+        {
+            "id": "Larson-Morissette",
+            "group": 1
+        },
+        {
+            "id": "Greenfelder Inc",
+            "group": 1
+        },
+        {
+            "id": "Heaney LLC",
+            "group": 1
+        },
+        {
+            "id": "Macejkovic-Bergnaum",
+            "group": 1
+        },
+        {
+            "id": "Rau-Hessel",
+            "group": 1
+        },
+        {
+            "id": "Jacobson LLC",
+            "group": 1
+        },
+        {
+            "id": "Sanford Inc",
+            "group": 1
+        },
+        {
+            "id": "Dooley-Kirlin",
+            "group": 1
+        },
+        {
+            "id": "Borer LLC",
+            "group": 1
+        },
+        {
+            "id": "Abbott-Hintz",
+            "group": 1
+        },
+        {
+            "id": "Thiel-Auer",
+            "group": 1
+        },
+        {
+            "id": "Kautzer-Hessel",
+            "group": 1
+        },
+        {
+            "id": "Heaney Group",
+            "group": 1
+        },
+        {
+            "id": "Reichel Inc",
+            "group": 1
+        },
+        {
+            "id": "Gislason Group",
+            "group": 1
+        },
+        {
+            "id": "Rogahn LLC",
+            "group": 1
+        },
+        {
+            "id": "Harris-Murazik",
+            "group": 1
+        },
+        {
+            "id": "Lowe and Sons",
+            "group": 1
+        },
+        {
+            "id": "Oberbrunner-Haag",
+            "group": 1
+        },
+        {
+            "id": "Shanahan Inc",
+            "group": 1
+        },
+        {
+            "id": "Lemke Inc",
+            "group": 1
+        },
+        {
+            "id": "Murray-Cassin",
+            "group": 1
+        },
+        {
+            "id": "Zieme-Hartmann",
+            "group": 1
+        },
+        {
+            "id": "Casper-Durgan",
+            "group": 1
+        },
+        {
+            "id": "Graham-Waelchi",
+            "group": 1
+        },
+        {
+            "id": "Moore-Hammes",
+            "group": 1
+        },
+        {
+            "id": "Barrows-Volkman",
+            "group": 1
+        },
+        {
+            "id": "Johns-Douglas",
+            "group": 1
+        },
+        {
+            "id": "Daniel-Runolfsdottir",
+            "group": 1
+        },
+        {
+            "id": "McClure-Williamson",
+            "group": 1
+        },
+        {
+            "id": "Nader and Sons",
+            "group": 1
+        },
+        {
+            "id": "Hilll-Waters",
+            "group": 1
+        },
+        {
+            "id": "Padberg Inc",
+            "group": 1
+        },
+        {
+            "id": "Green-Muller",
+            "group": 1
+        },
+        {
+            "id": "Jast Inc",
+            "group": 1
+        },
+        {
+            "id": "King Inc",
+            "group": 1
+        },
+        {
+            "id": "Schimmel-Nikolaus",
+            "group": 1
+        },
+        {
+            "id": "Von-Morissette",
+            "group": 1
+        },
+        {
+            "id": "Boyer Inc",
+            "group": 1
+        },
+        {
+            "id": "Lynch-McDermott",
+            "group": 1
+        },
+        {
+            "id": "Monahan and Sons",
+            "group": 1
+        },
+        {
+            "id": "Greenholt Group",
+            "group": 1
+        },
+        {
+            "id": "Schinner-Kunze",
+            "group": 1
+        },
+        {
+            "id": "Kozey Group",
+            "group": 1
+        },
+        {
+            "id": "Wilkinson and Sons",
+            "group": 1
+        },
+        {
+            "id": "Towne Inc",
+            "group": 1
+        },
+        {
+            "id": "Boyle-O'Reilly",
+            "group": 1
+        },
+        {
+            "id": "Abernathy and Sons",
+            "group": 1
+        },
+        {
+            "id": "Gulgowski Group",
+            "group": 1
+        },
+        {
+            "id": "Berge LLC",
+            "group": 1
+        },
+        {
+            "id": "Sawayn and Sons",
+            "group": 1
+        },
+        {
+            "id": "Grady-Bernhard",
+            "group": 1
+        },
+        {
+            "id": "Grant-Kshlerin",
+            "group": 1
+        },
+        {
+            "id": "Wyman-Hagenes",
+            "group": 1
+        },
+        {
+            "id": "Macejkovic-Wilkinson",
+            "group": 1
+        },
+        {
+            "id": "Terry Group",
+            "group": 1
+        },
+        {
+            "id": "Nolan-McKenzie",
+            "group": 1
+        },
+        {
+            "id": "Kris-Jacobs",
+            "group": 1
+        },
+        {
+            "id": "Heaney-Johnston",
+            "group": 1
+        },
+        {
+            "id": "Turner LLC",
+            "group": 1
+        },
+        {
+            "id": "Kiehn and Sons",
+            "group": 1
+        },
+        {
+            "id": "Shields Group",
+            "group": 1
+        },
+        {
+            "id": "O'Hara-MacGyver",
+            "group": 1
+        },
+        {
+            "id": "Hahn Group",
+            "group": 1
+        },
+        {
+            "id": "Quitzon-Hyatt",
+            "group": 1
+        },
+        {
+            "id": "Padberg-Rosenbaum",
+            "group": 1
+        },
+        {
+            "id": "Wolf Inc",
+            "group": 1
+        },
+        {
+            "id": "Stracke-Abshire",
+            "group": 1
+        },
+        {
+            "id": "Schoen-Dicki",
+            "group": 1
+        },
+        {
+            "id": "Walter-Herman",
+            "group": 1
+        },
+        {
+            "id": "Daniel-Mueller",
+            "group": 1
+        },
+        {
+            "id": "Nienow-Simonis",
+            "group": 1
+        },
+        {
+            "id": "Gibson LLC",
+            "group": 1
+        },
+        {
+            "id": "Considine-Conroy",
+            "group": 1
+        },
+        {
+            "id": "Murazik-Keebler",
+            "group": 1
+        },
+        {
+            "id": "Collins Inc",
+            "group": 1
+        },
+        {
+            "id": "DuBuque and Sons",
+            "group": 1
+        },
+        {
+            "id": "Klocko and Sons",
+            "group": 1
+        },
+        {
+            "id": "Olson Group",
+            "group": 1
+        },
+        {
+            "id": "Wilkinson Inc",
+            "group": 1
+        },
+        {
+            "id": "Schmeler-Feil",
+            "group": 1
+        },
+        {
+            "id": "Pacocha LLC",
+            "group": 1
+        },
+        {
+            "id": "Ledner Group",
+            "group": 1
+        },
+        {
+            "id": "Green-Wolf",
+            "group": 1
+        },
+        {
+            "id": "McCullough-Kihn",
+            "group": 1
+        },
+        {
+            "id": "Kilback Inc",
+            "group": 1
+        },
+        {
+            "id": "Johns Group",
+            "group": 1
+        },
+        {
+            "id": "Grant-Raynor",
+            "group": 1
+        },
+        {
+            "id": "Hoppe Group",
+            "group": 1
+        },
+        {
+            "id": "Schaden-Kessler",
+            "group": 1
+        },
+        {
+            "id": "Moen-Conn",
+            "group": 1
+        },
+        {
+            "id": "Bruen Inc",
+            "group": 1
+        },
+        {
+            "id": "Bernhard-Bartell",
+            "group": 1
+        },
+        {
+            "id": "Weber-Jacobi",
+            "group": 1
+        },
+        {
+            "id": "Zemlak-Conn",
+            "group": 1
+        },
+        {
+            "id": "Pouros-Reinger",
+            "group": 1
+        },
+        {
+            "id": "Bergstrom-Wisoky",
+            "group": 1
+        },
+        {
+            "id": "Little-Hintz",
+            "group": 1
+        },
+        {
+            "id": "Bailey Group",
+            "group": 1
+        },
+        {
+            "id": "Stamm-Bogisich",
+            "group": 1
+        },
+        {
+            "id": "Kunde-Heller",
+            "group": 1
+        },
+        {
+            "id": "Bayer-Nienow",
+            "group": 1
+        },
+        {
+            "id": "Wiza LLC",
+            "group": 1
+        },
+        {
+            "id": "Mohr and Sons",
+            "group": 1
+        },
+        {
+            "id": "Bosco LLC",
+            "group": 1
+        },
+        {
+            "id": "Cummings-Schroeder",
+            "group": 1
+        },
+        {
+            "id": "Kerluke Group",
+            "group": 1
+        },
+        {
+            "id": "Pfeffer Inc",
+            "group": 1
+        },
+        {
+            "id": "Walsh-Schiller",
+            "group": 1
+        },
+        {
+            "id": "Gleason Group",
+            "group": 1
+        },
+        {
+            "id": "Lakin Inc",
+            "group": 1
+        },
+        {
+            "id": "Hintz-Purdy",
+            "group": 1
+        },
+        {
+            "id": "O'Reilly-Rempel",
+            "group": 1
+        },
+        {
+            "id": "Roberts Inc",
+            "group": 1
+        },
+        {
+            "id": "Lubowitz-Bosco",
+            "group": 1
+        },
+        {
+            "id": "Pagac-Kihn",
+            "group": 1
+        },
+        {
+            "id": "Leannon-Ferry",
+            "group": 1
+        },
+        {
+            "id": "Brown-Gorczany",
+            "group": 1
+        },
+        {
+            "id": "Gottlieb-Ratke",
+            "group": 1
+        },
+        {
+            "id": "Vandervort-Kerluke",
+            "group": 1
+        },
+        {
+            "id": "Rice LLC",
+            "group": 1
+        },
+        {
+            "id": "Leuschke-Mills",
+            "group": 1
+        },
+        {
+            "id": "Fay and Sons",
+            "group": 1
+        },
+        {
+            "id": "Reinger-Kemmer",
+            "group": 1
+        },
+        {
+            "id": "Bergnaum Inc",
+            "group": 1
+        },
+        {
+            "id": "Lesch-Carter",
+            "group": 1
+        },
+        {
+            "id": "Grimes Inc",
+            "group": 1
+        },
+        {
+            "id": "Upton Inc",
+            "group": 1
+        },
+        {
+            "id": "Streich Group",
+            "group": 1
+        },
+        {
+            "id": "Ondricka-Carroll",
+            "group": 1
+        },
+        {
+            "id": "Nolan-Rippin",
+            "group": 1
+        },
+        {
+            "id": "Rau-Osinski",
+            "group": 1
+        },
+        {
+            "id": "Greenholt-O'Kon",
+            "group": 1
+        },
+        {
+            "id": "Schmeler-Tillman",
+            "group": 1
+        },
+        {
+            "id": "Franecki-Koelpin",
+            "group": 1
+        },
+        {
+            "id": "Ziemann-Murray",
+            "group": 1
+        },
+        {
+            "id": "Bednar-Bashirian",
+            "group": 1
+        },
+        {
+            "id": "Cummerata-Collins",
+            "group": 1
+        },
+        {
+            "id": "Farrell and Sons",
+            "group": 1
+        },
+        {
+            "id": "Larkin-Murazik",
+            "group": 1
+        },
+        {
+            "id": "Hyatt LLC",
+            "group": 1
+        },
+        {
+            "id": "Kuvalis-Little",
+            "group": 1
+        },
+        {
+            "id": "Lehner LLC",
+            "group": 1
+        },
+        {
+            "id": "Streich-Padberg",
+            "group": 1
+        },
+        {
+            "id": "Padberg-Breitenberg",
+            "group": 1
+        },
+        {
+            "id": "Wuckert-Jenkins",
+            "group": 1
+        },
+        {
+            "id": "Hermiston Group",
+            "group": 1
+        },
+        {
+            "id": "Lubowitz Group",
+            "group": 1
+        },
+        {
+            "id": "Pfeffer and Sons",
+            "group": 1
+        },
+        {
+            "id": "Ward LLC",
+            "group": 1
+        },
+        {
+            "id": "Spinka Group",
+            "group": 1
+        },
+        {
+            "id": "Hilpert and Sons",
+            "group": 1
+        },
+        {
+            "id": "O'Kon Inc",
+            "group": 1
+        },
+        {
+            "id": "Schimmel Inc",
+            "group": 1
+        },
+        {
+            "id": "Boyer LLC",
+            "group": 1
+        },
+        {
+            "id": "Schmitt Inc",
+            "group": 1
+        },
+        {
+            "id": "Gibson and Sons",
+            "group": 1
+        },
+        {
+            "id": "Abbott and Sons",
+            "group": 1
+        },
+        {
+            "id": "Macejkovic LLC",
+            "group": 1
+        },
+        {
+            "id": "DuBuque-Murazik",
+            "group": 1
+        },
+        {
+            "id": "Brekke Group",
+            "group": 1
+        },
+        {
+            "id": "Ankunding Inc",
+            "group": 1
+        },
+        {
+            "id": "Wuckert LLC",
+            "group": 1
+        },
+        {
+            "id": "Emmerich and Sons",
+            "group": 1
+        },
+        {
+            "id": "Sipes-Grimes",
+            "group": 1
+        },
+        {
+            "id": "Schmeler Inc",
+            "group": 1
+        },
+        {
+            "id": "Rodriguez LLC",
+            "group": 1
+        },
+        {
+            "id": "Funk Group",
+            "group": 1
+        },
+        {
+            "id": "Rosenbaum LLC",
+            "group": 1
+        },
+        {
+            "id": "Wiegand and Sons",
+            "group": 1
+        },
+        {
+            "id": "Rath and Sons",
+            "group": 1
+        },
+        {
+            "id": "Zemlak and Sons",
+            "group": 1
+        },
+        {
+            "id": "Fritsch-Harber",
+            "group": 1
+        },
+        {
+            "id": "Lemke-Zieme",
+            "group": 1
+        },
+        {
+            "id": "Hayes-Gottlieb",
+            "group": 1
+        },
+        {
+            "id": "Spinka-Langosh",
+            "group": 1
+        },
+        {
+            "id": "Erdman-Dibbert",
+            "group": 1
+        },
+        {
+            "id": "Paucek LLC",
+            "group": 1
+        },
+        {
+            "id": "Sporer-Conroy",
+            "group": 1
+        },
+        {
+            "id": "Stamm-Hirthe",
+            "group": 1
+        },
+        {
+            "id": "Langosh Group",
+            "group": 1
+        },
+        {
+            "id": "Greenfelder-Jones",
+            "group": 1
+        },
+        {
+            "id": "Harvey Group",
+            "group": 1
+        },
+        {
+            "id": "Brown LLC",
+            "group": 1
+        },
+        {
+            "id": "Crona LLC",
+            "group": 1
+        },
+        {
+            "id": "Schulist-Smitham",
+            "group": 1
+        },
+        {
+            "id": "Becker and Sons",
+            "group": 1
+        },
+        {
+            "id": "Nicolas and Sons",
+            "group": 1
+        },
+        {
+            "id": "Jerde-Ward",
+            "group": 1
+        },
+        {
+            "id": "Wuckert-Cormier",
+            "group": 1
+        },
+        {
+            "id": "Nikolaus-Nicolas",
+            "group": 1
+        },
+        {
+            "id": "Schaefer LLC",
+            "group": 1
+        },
+        {
+            "id": "Mann-Lowe",
+            "group": 1
+        },
+        {
+            "id": "Keeling-Cremin",
+            "group": 1
+        },
+        {
+            "id": "Rolfson-Prohaska",
+            "group": 1
+        },
+        {
+            "id": "Kunde and Sons",
+            "group": 1
+        },
+        {
+            "id": "Kunde LLC",
+            "group": 1
+        },
+        {
+            "id": "Berge-Brown",
+            "group": 1
+        },
+        {
+            "id": "Zboncak-Schaden",
+            "group": 1
+        },
+        {
+            "id": "Williamson-Wilderman",
+            "group": 1
+        },
+        {
+            "id": "Ritchie-Braun",
+            "group": 1
+        },
+        {
+            "id": "Blanda-Dicki",
+            "group": 1
+        },
+        {
+            "id": "Hickle LLC",
+            "group": 1
+        },
+        {
+            "id": "Tillman LLC",
+            "group": 1
+        },
+        {
+            "id": "Borer Inc",
+            "group": 1
+        },
+        {
+            "id": "Hansen Inc",
+            "group": 1
+        },
+        {
+            "id": "Schaden Group",
+            "group": 1
+        },
+        {
+            "id": "Monahan LLC",
+            "group": 1
+        },
+        {
+            "id": "Denesik Inc",
+            "group": 1
+        },
+        {
+            "id": "Littel-Gleason",
+            "group": 1
+        },
+        {
+            "id": "Larson LLC",
+            "group": 1
+        },
+        {
+            "id": "Brakus and Sons",
+            "group": 1
+        },
+        {
+            "id": "Braun LLC",
+            "group": 1
+        },
+        {
+            "id": "Orn and Sons",
+            "group": 1
+        },
+        {
+            "id": "Effertz Group",
+            "group": 1
+        },
+        {
+            "id": "Rohan Inc",
+            "group": 1
+        },
+        {
+            "id": "Buckridge-Murazik",
+            "group": 1
+        },
+        {
+            "id": "Armstrong and Sons",
+            "group": 1
+        },
+        {
+            "id": "Kub Inc",
+            "group": 1
+        },
+        {
+            "id": "Walsh-Bergstrom",
+            "group": 1
+        },
+        {
+            "id": "Lynch-Hane",
+            "group": 1
+        },
+        {
+            "id": "Christiansen and Sons",
+            "group": 1
+        },
+        {
+            "id": "Zboncak-Botsford",
+            "group": 1
+        },
+        {
+            "id": "Bartell-Bayer",
+            "group": 1
+        },
+        {
+            "id": "Hettinger Group",
+            "group": 1
+        },
+        {
+            "id": "Smitham-Ernser",
+            "group": 1
+        },
+        {
+            "id": "Runte Group",
+            "group": 1
+        },
+        {
+            "id": "Schowalter and Sons",
+            "group": 1
+        },
+        {
+            "id": "Cormier Group",
+            "group": 1
+        },
+        {
+            "id": "Auer LLC",
+            "group": 1
+        },
+        {
+            "id": "Howell-Keeling",
+            "group": 1
+        },
+        {
+            "id": "Wunsch Inc",
+            "group": 1
+        },
+        {
+            "id": "Treutel Inc",
+            "group": 1
+        },
+        {
+            "id": "Thompson and Sons",
+            "group": 1
+        },
+        {
+            "id": "McDermott Group",
+            "group": 1
+        },
+        {
+            "id": "Cassin-Reynolds",
+            "group": 1
+        },
+        {
+            "id": "Adams and Sons",
+            "group": 1
+        },
+        {
+            "id": "Volkman-Hessel",
+            "group": 1
+        },
+        {
+            "id": "Nikolaus Inc",
+            "group": 1
+        },
+        {
+            "id": "Muller-Kautzer",
+            "group": 1
+        },
+        {
+            "id": "Considine-Haley",
+            "group": 1
+        },
+        {
+            "id": "Kuhn-Davis",
+            "group": 1
+        },
+        {
+            "id": "Homenick-MacGyver",
+            "group": 1
+        },
+        {
+            "id": "Schuster-Price",
+            "group": 1
+        },
+        {
+            "id": "Greenfelder-Luettgen",
+            "group": 1
+        },
+        {
+            "id": "Maggio and Sons",
+            "group": 1
+        },
+        {
+            "id": "Hilll Inc",
+            "group": 1
+        },
+        {
+            "id": "McLaughlin-Schuster",
+            "group": 1
+        },
+        {
+            "id": "Gislason LLC",
+            "group": 1
+        },
+        {
+            "id": "Wehner-Gislason",
+            "group": 1
+        },
+        {
+            "id": "Stanton-Beatty",
+            "group": 1
+        },
+        {
+            "id": "Raynor-Lehner",
+            "group": 1
+        },
+        {
+            "id": "Corkery-Armstrong",
+            "group": 1
+        },
+        {
+            "id": "Stanton-Nienow",
+            "group": 1
+        },
+        {
+            "id": "O'Connell-Rosenbaum",
+            "group": 1
+        },
+        {
+            "id": "Olson-Doyle",
+            "group": 1
+        },
+        {
+            "id": "Gibson-Wisoky",
+            "group": 1
+        },
+        {
+            "id": "Lind-Wisozk",
+            "group": 1
+        },
+        {
+            "id": "Carroll-Doyle",
+            "group": 1
+        },
+        {
+            "id": "Latvia",
+            "group": 2
+        },
+        {
+            "id": "France",
+            "group": 2
+        },
+        {
+            "id": "Poland",
+            "group": 2
+        },
+        {
+            "id": "Germany",
+            "group": 2
+        },
+        {
+            "id": "Croatia",
+            "group": 2
+        },
+        {
+            "id": "Greece",
+            "group": 2
+        },
+        {
+            "id": "Netherlands",
+            "group": 2
+        },
+        {
+            "id": "Czech Republic",
+            "group": 2
+        },
+        {
+            "id": "Spain",
+            "group": 2
+        },
+        {
+            "id": "Belgium",
+            "group": 2
+        },
+        {
+            "id": "Norway",
+            "group": 2
+        },
+        {
+            "id": "Hungary",
+            "group": 2
+        },
+        {
+            "id": "Sweden",
+            "group": 2
+        },
+        {
+            "id": "Finland",
+            "group": 2
+        },
+        {
+            "id": "Portugal",
+            "group": 2
+        },
+        {
+            "id": "Italy",
+            "group": 2
+        },
+        {
+            "id": "Slovenia",
+            "group": 2
+        },
+        {
+            "id": "Lithuania",
+            "group": 2
+        },
+        {
+            "id": "United Kingdom",
+            "group": 2
+        },
+        {
+            "id": "Denmark",
+            "group": 2
+        },
+        {
+            "id": "Estonia",
+            "group": 2
+        },
+        {
+            "id": "G\u00c3\u00b6teborg DC",
+            "group": 3
+        },
+        {
+            "id": "Lyon DC",
+            "group": 3
+        },
+        {
+            "id": "Wroc\u00c5\u201aaw DC",
+            "group": 3
+        },
+        {
+            "id": "Antwerp DC",
+            "group": 3
+        },
+        {
+            "id": "Birmingham DC",
+            "group": 3
+        },
+        {
+            "id": "EV Car Battery",
+            "group": 4
+        },
+        {
+            "id": "Home Battery",
+            "group": 4
+        },
+        {
+            "id": "Wroc\u00c5\u201aaw Production",
+            "group": 5
+        },
+        {
+            "id": "Antwerp Production",
+            "group": 5
+        },
+        {
+            "id": "Lyon Production",
+            "group": 5
+        }
+    ],
+    "links": [
+        {
+            "source": "EV Car Battery",
+            "target": "Parisian and Sons",
+            "value": 5
+        },
+        {
+            "source": "Skiles and Sons",
+            "target": "Belgium",
+            "value": 5
+        },
+        {
+            "source": "Stanton-Beatty",
+            "target": "EV Car Battery",
+            "value": 5
+        },
+        {
+            "source": "Antwerp DC",
+            "target": "Carroll-Feest",
+            "value": 5
+        },
+        {
+            "source": "Antwerp DC",
+            "target": "Home Battery",
+            "value": 5
+        },
+        {
+            "source": "Wroc\u00c5\u201aaw DC",
+            "target": "EV Car Battery",
+            "value": 5
+        },
+        {
+            "source": "G\u00c3\u00b6teborg DC",
+            "target": "EV Car Battery",
+            "value": 5
+        },
+        {
+            "source": "Lyon Production",
+            "target": "Medhurst LLC",
+            "value": 5
+        },
+        {
+            "source": "Portugal",
+            "target": "Hudson Group",
+            "value": 5
+        },
+        {
+            "source": "Leannon LLC",
+            "target": "EV Car Battery",
+            "value": 5
+        },
+        {
+            "source": "G\u00c3\u00b6teborg DC",
+            "target": "EV Car Battery",
+            "value": 5
+        },
+        {
+            "source": "Wroc\u00c5\u201aaw Production",
+            "target": "EV Car Battery",
+            "value": 5
+        },
+        {
+            "source": "Antwerp DC",
+            "target": "EV Car Battery",
+            "value": 5
+        },
+        {
+            "source": "Considine-Haley",
+            "target": "EV Car Battery",
+            "value": 5
+        },
+        {
+            "source": "Czech Republic",
+            "target": "Lyon Production",
+            "value": 5
+        },
+        {
+            "source": "Germany",
+            "target": "Antwerp DC",
+            "value": 5
+        },
+        {
+            "source": "EV Car Battery",
+            "target": "Antwerp DC",
+            "value": 5
+        },
+        {
+            "source": "Germany",
+            "target": "DuBuque and Sons",
+            "value": 5
+        },
+        {
+            "source": "Wroc\u00c5\u201aaw Production",
+            "target": "Germany",
+            "value": 5
+        },
+        {
+            "source": "Lyon DC",
+            "target": "Lakin Inc",
+            "value": 5
+        },
+        {
+            "source": "EV Car Battery",
+            "target": "Rolfson Inc",
+            "value": 5
+        },
+        {
+            "source": "EV Car Battery",
+            "target": "Antwerp DC",
+            "value": 5
+        },
+        {
+            "source": "EV Car Battery",
+            "target": "Lyon Production",
+            "value": 5
+        },
+        {
+            "source": "Czech Republic",
+            "target": "Wroc\u00c5\u201aaw DC",
+            "value": 5
+        },
+        {
+            "source": "Germany",
+            "target": "EV Car Battery",
+            "value": 5
+        },
+        {
+            "source": "Antwerp Production",
+            "target": "Antwerp DC",
+            "value": 5
+        },
+        {
+            "source": "Antwerp DC",
+            "target": "EV Car Battery",
+            "value": 5
+        },
+        {
+            "source": "Germany",
+            "target": "Home Battery",
+            "value": 5
+        },
+        {
+            "source": "Lyon DC",
+            "target": "France",
+            "value": 5
+        },
+        {
+            "source": "EV Car Battery",
+            "target": "Germany",
+            "value": 5
+        },
+        {
+            "source": "Germany",
+            "target": "Antwerp DC",
+            "value": 5
+        },
+        {
+            "source": "Lyon DC",
+            "target": "France",
+            "value": 5
+        },
+        {
+            "source": "G\u00c3\u00b6teborg DC",
+            "target": "Antwerp Production",
+            "value": 5
+        },
+        {
+            "source": "Sweden",
+            "target": "G\u00c3\u00b6teborg DC",
+            "value": 5
+        },
+        {
+            "source": "Germany",
+            "target": "Cremin-Breitenberg",
+            "value": 5
+        },
+        {
+            "source": "Portugal",
+            "target": "EV Car Battery",
+            "value": 5
+        },
+        {
+            "source": "Wroc\u00c5\u201aaw Production",
+            "target": "Antwerp DC",
+            "value": 5
+        },
+        {
+            "source": "Strosin LLC",
+            "target": "Antwerp DC",
+            "value": 5
+        },
+        {
+            "source": "Germany",
+            "target": "Schaefer Inc",
+            "value": 5
+        },
+        {
+            "source": "Germany",
+            "target": "Little-Hintz",
+            "value": 5
+        },
+        {
+            "source": "EV Car Battery",
+            "target": "Wroc\u00c5\u201aaw Production",
+            "value": 5
+        },
+        {
+            "source": "Rolfson-Prohaska",
+            "target": "G\u00c3\u00b6teborg DC",
+            "value": 5
+        },
+        {
+            "source": "G\u00c3\u00b6teborg DC",
+            "target": "EV Car Battery",
+            "value": 5
+        },
+        {
+            "source": "Antwerp DC",
+            "target": "EV Car Battery",
+            "value": 5
+        },
+        {
+            "source": "Little-Hintz",
+            "target": "Germany",
+            "value": 5
+        },
+        {
+            "source": "Home Battery",
+            "target": "Nicolas Inc",
+            "value": 5
+        },
+        {
+            "source": "EV Car Battery",
+            "target": "Germany",
+            "value": 5
+        },
+        {
+            "source": "EV Car Battery",
+            "target": "Lyon DC",
+            "value": 5
+        },
+        {
+            "source": "Mraz-Cummerata",
+            "target": "Wroc\u00c5\u201aaw DC",
+            "value": 5
+        },
+        {
+            "source": "EV Car Battery",
+            "target": "Lyon DC",
+            "value": 5
+        },
+        {
+            "source": "Ryan-Lesch",
+            "target": "Germany",
+            "value": 5
+        },
+        {
+            "source": "Kemmer-Smith",
+            "target": "Antwerp DC",
+            "value": 5
+        },
+        {
+            "source": "Home Battery",
+            "target": "Antwerp Production",
+            "value": 5
+        },
+        {
+            "source": "EV Car Battery",
+            "target": "Aufderhar Group",
+            "value": 5
+        },
+        {
+            "source": "Germany",
+            "target": "Home Battery",
+            "value": 5
+        },
+        {
+            "source": "France",
+            "target": "Lyon DC",
+            "value": 5
+        },
+        {
+            "source": "Renner Group",
+            "target": "Home Battery",
+            "value": 5
+        },
+        {
+            "source": "EV Car Battery",
+            "target": "Willms-Lockman",
+            "value": 5
+        },
+        {
+            "source": "France",
+            "target": "Home Battery",
+            "value": 5
+        },
+        {
+            "source": "Bruen-Smitham",
+            "target": "Germany",
+            "value": 5
+        },
+        {
+            "source": "Becker LLC",
+            "target": "EV Car Battery",
+            "value": 5
+        },
+        {
+            "source": "EV Car Battery",
+            "target": "Brown-Hamill",
+            "value": 5
+        },
+        {
+            "source": "Germany",
+            "target": "Antwerp DC",
+            "value": 5
+        },
+        {
+            "source": "Lyon DC",
+            "target": "Slovenia",
+            "value": 5
+        },
+        {
+            "source": "Germany",
+            "target": "Antwerp DC",
+            "value": 5
+        },
+        {
+            "source": "Antwerp DC",
+            "target": "Wisozk Group",
+            "value": 5
+        },
+        {
+            "source": "Home Battery",
+            "target": "Lyon DC",
+            "value": 5
+        },
+        {
+            "source": "EV Car Battery",
+            "target": "Lyon DC",
+            "value": 5
+        },
+        {
+            "source": "EV Car Battery",
+            "target": "Connelly-Cremin",
+            "value": 5
+        },
+        {
+            "source": "Volkman-Abbott",
+            "target": "Poland",
+            "value": 5
+        },
+        {
+            "source": "G\u00c3\u00b6teborg DC",
+            "target": "Pfeffer and Sons",
+            "value": 5
+        },
+        {
+            "source": "EV Car Battery",
+            "target": "McClure LLC",
+            "value": 5
+        },
+        {
+            "source": "Lyon DC",
+            "target": "EV Car Battery",
+            "value": 5
+        },
+        {
+            "source": "Gulgowski-Hintz",
+            "target": "EV Car Battery",
+            "value": 5
+        },
+        {
+            "source": "Antwerp DC",
+            "target": "Antwerp Production",
+            "value": 5
+        },
+        {
+            "source": "EV Car Battery",
+            "target": "Heller Group",
+            "value": 5
+        },
+        {
+            "source": "Hintz-Purdy",
+            "target": "Lyon Production",
+            "value": 5
+        },
+        {
+            "source": "Lyon DC",
+            "target": "France",
+            "value": 5
+        },
+        {
+            "source": "Lyon DC",
+            "target": "Quigley-Harber",
+            "value": 5
+        },
+        {
+            "source": "Wroc\u00c5\u201aaw Production",
+            "target": "Antwerp DC",
+            "value": 5
+        },
+        {
+            "source": "Wroc\u00c5\u201aaw Production",
+            "target": "EV Car Battery",
+            "value": 5
+        },
+        {
+            "source": "Belgium",
+            "target": "Antwerp DC",
+            "value": 5
+        },
+        {
+            "source": "Rowe Inc",
+            "target": "G\u00c3\u00b6teborg DC",
+            "value": 5
+        },
+        {
+            "source": "Waters LLC",
+            "target": "Antwerp Production",
+            "value": 5
+        },
+        {
+            "source": "Germany",
+            "target": "Antwerp DC",
+            "value": 5
+        },
+        {
+            "source": "Antwerp DC",
+            "target": "Germany",
+            "value": 5
+        },
+        {
+            "source": "France",
+            "target": "Lyon DC",
+            "value": 5
+        },
+        {
+            "source": "Ryan-Lesch",
+            "target": "EV Car Battery",
+            "value": 5
+        },
+        {
+            "source": "Germany",
+            "target": "Antwerp DC",
+            "value": 5
+        },
+        {
+            "source": "EV Car Battery",
+            "target": "Sweden",
+            "value": 5
+        },
+        {
+            "source": "Germany",
+            "target": "EV Car Battery",
+            "value": 5
+        },
+        {
+            "source": "Germany",
+            "target": "Antwerp DC",
+            "value": 5
+        },
+        {
+            "source": "Stanton-Wisozk",
+            "target": "Germany",
+            "value": 5
+        },
+        {
+            "source": "Antwerp DC",
+            "target": "Denesik-Lesch",
+            "value": 5
+        },
+        {
+            "source": "Home Battery",
+            "target": "Antwerp DC",
+            "value": 5
+        },
+        {
+            "source": "Lyon DC",
+            "target": "Home Battery",
+            "value": 5
+        },
+        {
+            "source": "Antwerp DC",
+            "target": "Germany",
+            "value": 5
+        },
+        {
+            "source": "EV Car Battery",
+            "target": "Germany",
+            "value": 5
+        },
+        {
+            "source": "EV Car Battery",
+            "target": "France",
+            "value": 5
+        },
+        {
+            "source": "EV Car Battery",
+            "target": "Sweden",
+            "value": 5
+        },
+        {
+            "source": "Hirthe-McClure",
+            "target": "EV Car Battery",
+            "value": 5
+        },
+        {
+            "source": "EV Car Battery",
+            "target": "Wroc\u00c5\u201aaw DC",
+            "value": 5
+        },
+        {
+            "source": "Home Battery",
+            "target": "Greece",
+            "value": 5
+        },
+        {
+            "source": "France",
+            "target": "EV Car Battery",
+            "value": 5
+        },
+        {
+            "source": "Balistreri-Sipes",
+            "target": "Hungary",
+            "value": 5
+        },
+        {
+            "source": "Antwerp DC",
+            "target": "EV Car Battery",
+            "value": 5
+        },
+        {
+            "source": "Reynolds LLC",
+            "target": "Antwerp Production",
+            "value": 5
+        },
+        {
+            "source": "Home Battery",
+            "target": "McLaughlin Inc",
+            "value": 5
+        },
+        {
+            "source": "Heaney Group",
+            "target": "EV Car Battery",
+            "value": 5
+        },
+        {
+            "source": "G\u00c3\u00b6teborg DC",
+            "target": "Sweden",
+            "value": 5
+        },
+        {
+            "source": "EV Car Battery",
+            "target": "Wolf Group",
+            "value": 5
+        },
+        {
+            "source": "Antwerp Production",
+            "target": "Gleason Group",
+            "value": 5
+        },
+        {
+            "source": "EV Car Battery",
+            "target": "Antwerp DC",
+            "value": 5
+        },
+        {
+            "source": "Antwerp DC",
+            "target": "Home Battery",
+            "value": 5
+        },
+        {
+            "source": "EV Car Battery",
+            "target": "Watsica Inc",
+            "value": 5
+        },
+        {
+            "source": "Germany",
+            "target": "EV Car Battery",
+            "value": 5
+        },
+        {
+            "source": "Sweden",
+            "target": "G\u00c3\u00b6teborg DC",
+            "value": 5
+        },
+        {
+            "source": "Kling LLC",
+            "target": "Wroc\u00c5\u201aaw DC",
+            "value": 5
+        },
+        {
+            "source": "Wroc\u00c5\u201aaw Production",
+            "target": "Germany",
+            "value": 5
+        },
+        {
+            "source": "Sweden",
+            "target": "EV Car Battery",
+            "value": 5
+        },
+        {
+            "source": "Wroc\u00c5\u201aaw Production",
+            "target": "EV Car Battery",
+            "value": 5
+        },
+        {
+            "source": "Antwerp Production",
+            "target": "Poland",
+            "value": 5
+        },
+        {
+            "source": "Germany",
+            "target": "Antwerp DC",
+            "value": 5
+        },
+        {
+            "source": "EV Car Battery",
+            "target": "Kuvalis-Cruickshank",
+            "value": 5
+        },
+        {
+            "source": "Kemmer-Pouros",
+            "target": "EV Car Battery",
+            "value": 5
+        },
+        {
+            "source": "Russel-Weber",
+            "target": "Antwerp DC",
+            "value": 5
+        },
+        {
+            "source": "Wroc\u00c5\u201aaw Production",
+            "target": "Toy-Beatty",
+            "value": 5
+        },
+        {
+            "source": "Wroc\u00c5\u201aaw DC",
+            "target": "Balistreri-Sipes",
+            "value": 5
+        },
+        {
+            "source": "Haag-Greenfelder",
+            "target": "EV Car Battery",
+            "value": 5
+        },
+        {
+            "source": "EV Car Battery",
+            "target": "Antwerp DC",
+            "value": 5
+        },
+        {
+            "source": "Germany",
+            "target": "Dibbert-Kshlerin",
+            "value": 5
+        },
+        {
+            "source": "Germany",
+            "target": "EV Car Battery",
+            "value": 5
+        },
+        {
+            "source": "Antwerp DC",
+            "target": "Rowe-Treutel",
+            "value": 5
+        },
+        {
+            "source": "Greece",
+            "target": "Vandervort-Kerluke",
+            "value": 5
+        },
+        {
+            "source": "Kub Inc",
+            "target": "Lyon DC",
+            "value": 5
+        },
+        {
+            "source": "Mertz-O'Hara",
+            "target": "Antwerp DC",
+            "value": 5
+        },
+        {
+            "source": "Wroc\u00c5\u201aaw Production",
+            "target": "EV Car Battery",
+            "value": 5
+        },
+        {
+            "source": "Wroc\u00c5\u201aaw DC",
+            "target": "Wuckert-Jenkins",
+            "value": 5
+        },
+        {
+            "source": "Antwerp DC",
+            "target": "EV Car Battery",
+            "value": 5
+        },
+        {
+            "source": "Schiller-Doyle",
+            "target": "G\u00c3\u00b6teborg DC",
+            "value": 5
+        },
+        {
+            "source": "Wroc\u00c5\u201aaw DC",
+            "target": "Poland",
+            "value": 5
+        },
+        {
+            "source": "EV Car Battery",
+            "target": "Breitenberg Group",
+            "value": 5
+        },
+        {
+            "source": "Wroc\u00c5\u201aaw Production",
+            "target": "Tromp Inc",
+            "value": 5
+        },
+        {
+            "source": "Dach-Hauck",
+            "target": "EV Car Battery",
+            "value": 5
+        },
+        {
+            "source": "Germany",
+            "target": "Monahan LLC",
+            "value": 5
+        },
+        {
+            "source": "Wroc\u00c5\u201aaw Production",
+            "target": "Wroc\u00c5\u201aaw DC",
+            "value": 5
+        },
+        {
+            "source": "Antwerp Production",
+            "target": "Germany",
+            "value": 5
+        },
+        {
+            "source": "Antwerp DC",
+            "target": "Carroll-Feest",
+            "value": 5
+        },
+        {
+            "source": "Jerde Group",
+            "target": "Lyon Production",
+            "value": 5
+        },
+        {
+            "source": "Feeney-Hills",
+            "target": "Wroc\u00c5\u201aaw DC",
+            "value": 5
+        },
+        {
+            "source": "EV Car Battery",
+            "target": "G\u00c3\u00b6teborg DC",
+            "value": 5
+        },
+        {
+            "source": "Antwerp DC",
+            "target": "EV Car Battery",
+            "value": 5
+        },
+        {
+            "source": "EV Car Battery",
+            "target": "Wroc\u00c5\u201aaw Production",
+            "value": 5
+        },
+        {
+            "source": "EV Car Battery",
+            "target": "Poland",
+            "value": 5
+        },
+        {
+            "source": "EV Car Battery",
+            "target": "Lyon DC",
+            "value": 5
+        },
+        {
+            "source": "Germany",
+            "target": "EV Car Battery",
+            "value": 5
+        },
+        {
+            "source": "Lind-Wisozk",
+            "target": "EV Car Battery",
+            "value": 5
+        },
+        {
+            "source": "Medhurst LLC",
+            "target": "France",
+            "value": 5
+        },
+        {
+            "source": "Poland",
+            "target": "Wroc\u00c5\u201aaw Production",
+            "value": 5
+        },
+        {
+            "source": "Larson LLC",
+            "target": "Wroc\u00c5\u201aaw DC",
+            "value": 5
+        },
+        {
+            "source": "Antwerp Production",
+            "target": "Graham-Waelchi",
+            "value": 5
+        },
+        {
+            "source": "Netherlands",
+            "target": "Home Battery",
+            "value": 5
+        },
+        {
+            "source": "Germany",
+            "target": "Home Battery",
+            "value": 5
+        },
+        {
+            "source": "EV Car Battery",
+            "target": "Antwerp DC",
+            "value": 5
+        },
+        {
+            "source": "Antwerp DC",
+            "target": "Hoppe Group",
+            "value": 5
+        },
+        {
+            "source": "Antwerp Production",
+            "target": "Hahn Group",
+            "value": 5
+        },
+        {
+            "source": "Antwerp DC",
+            "target": "Germany",
+            "value": 5
+        },
+        {
+            "source": "Antwerp Production",
+            "target": "G\u00c3\u00b6teborg DC",
+            "value": 5
+        },
+        {
+            "source": "EV Car Battery",
+            "target": "Portugal",
+            "value": 5
+        },
+        {
+            "source": "Kautzer-Hessel",
+            "target": "Home Battery",
+            "value": 5
+        },
+        {
+            "source": "EV Car Battery",
+            "target": "Czech Republic",
+            "value": 5
+        },
+        {
+            "source": "Portugal",
+            "target": "Wroc\u00c5\u201aaw Production",
+            "value": 5
+        },
+        {
+            "source": "Cartwright Inc",
+            "target": "Wroc\u00c5\u201aaw Production",
+            "value": 5
+        },
+        {
+            "source": "Lyon DC",
+            "target": "EV Car Battery",
+            "value": 5
+        },
+        {
+            "source": "Wroc\u00c5\u201aaw DC",
+            "target": "Wroc\u00c5\u201aaw Production",
+            "value": 5
+        },
+        {
+            "source": "Antwerp DC",
+            "target": "EV Car Battery",
+            "value": 5
+        },
+        {
+            "source": "Wroc\u00c5\u201aaw DC",
+            "target": "EV Car Battery",
+            "value": 5
+        },
+        {
+            "source": "Wroc\u00c5\u201aaw DC",
+            "target": "Greece",
+            "value": 5
+        },
+        {
+            "source": "EV Car Battery",
+            "target": "Antwerp DC",
+            "value": 5
+        },
+        {
+            "source": "Lyon Production",
+            "target": "EV Car Battery",
+            "value": 5
+        },
+        {
+            "source": "Streich Group",
+            "target": "EV Car Battery",
+            "value": 5
+        },
+        {
+            "source": "Bogisich Group",
+            "target": "Sweden",
+            "value": 5
+        },
+        {
+            "source": "Wroc\u00c5\u201aaw Production",
+            "target": "Home Battery",
+            "value": 5
+        },
+        {
+            "source": "Schoen Group",
+            "target": "EV Car Battery",
+            "value": 5
+        },
+        {
+            "source": "Lyon DC",
+            "target": "France",
+            "value": 5
+        },
+        {
+            "source": "Poland",
+            "target": "Crooks-Haley",
+            "value": 5
+        },
+        {
+            "source": "Wroc\u00c5\u201aaw DC",
+            "target": "Greece",
+            "value": 5
+        },
+        {
+            "source": "Lemke Inc",
+            "target": "Sweden",
+            "value": 5
+        },
+        {
+            "source": "Lyon DC",
+            "target": "EV Car Battery",
+            "value": 5
+        },
+        {
+            "source": "Germany",
+            "target": "Antwerp DC",
+            "value": 5
+        },
+        {
+            "source": "EV Car Battery",
+            "target": "Antwerp DC",
+            "value": 5
+        },
+        {
+            "source": "EV Car Battery",
+            "target": "Lyon DC",
+            "value": 5
+        },
+        {
+            "source": "EV Car Battery",
+            "target": "Wroc\u00c5\u201aaw Production",
+            "value": 5
+        },
+        {
+            "source": "Schulist LLC",
+            "target": "Sweden",
+            "value": 5
+        },
+        {
+            "source": "Home Battery",
+            "target": "Antwerp DC",
+            "value": 5
+        },
+        {
+            "source": "EV Car Battery",
+            "target": "Germany",
+            "value": 5
+        },
+        {
+            "source": "EV Car Battery",
+            "target": "Wyman-Hagenes",
+            "value": 5
+        },
+        {
+            "source": "Germany",
+            "target": "Home Battery",
+            "value": 5
+        },
+        {
+            "source": "Czech Republic",
+            "target": "EV Car Battery",
+            "value": 5
+        },
+        {
+            "source": "EV Car Battery",
+            "target": "Wroc\u00c5\u201aaw DC",
+            "value": 5
+        },
+        {
+            "source": "Green-Muller",
+            "target": "Antwerp Production",
+            "value": 5
+        },
+        {
+            "source": "Germany",
+            "target": "Antwerp DC",
+            "value": 5
+        },
+        {
+            "source": "Czech Republic",
+            "target": "Bechtelar-Volkman",
+            "value": 5
+        },
+        {
+            "source": "Home Battery",
+            "target": "Germany",
+            "value": 5
+        },
+        {
+            "source": "Antwerp DC",
+            "target": "Ruecker-Tillman",
+            "value": 5
+        },
+        {
+            "source": "Home Battery",
+            "target": "Wuckert-Cormier",
+            "value": 5
+        },
+        {
+            "source": "EV Car Battery",
+            "target": "Monahan and Sons",
+            "value": 5
+        },
+        {
+            "source": "Wroc\u00c5\u201aaw DC",
+            "target": "EV Car Battery",
+            "value": 5
+        },
+        {
+            "source": "Antwerp DC",
+            "target": "Germany",
+            "value": 5
+        },
+        {
+            "source": "Finland",
+            "target": "G\u00c3\u00b6teborg DC",
+            "value": 5
+        },
+        {
+            "source": "Lyon DC",
+            "target": "Goldner-Hoeger",
+            "value": 5
+        },
+        {
+            "source": "France",
+            "target": "Howell-Keeling",
+            "value": 5
+        },
+        {
+            "source": "EV Car Battery",
+            "target": "Wroc\u00c5\u201aaw Production",
+            "value": 5
+        },
+        {
+            "source": "Lebsack-Wintheiser",
+            "target": "G\u00c3\u00b6teborg DC",
+            "value": 5
+        },
+        {
+            "source": "Home Battery",
+            "target": "Wroc\u00c5\u201aaw Production",
+            "value": 5
+        },
+        {
+            "source": "EV Car Battery",
+            "target": "Lyon DC",
+            "value": 5
+        },
+        {
+            "source": "Wroc\u00c5\u201aaw Production",
+            "target": "EV Car Battery",
+            "value": 5
+        },
+        {
+            "source": "EV Car Battery",
+            "target": "Brekke-Fritsch",
+            "value": 5
+        },
+        {
+            "source": "Germany",
+            "target": "Blanda-Dicki",
+            "value": 5
+        },
+        {
+            "source": "Antwerp Production",
+            "target": "EV Car Battery",
+            "value": 5
+        },
+        {
+            "source": "EV Car Battery",
+            "target": "Bogisich and Sons",
+            "value": 5
+        },
+        {
+            "source": "G\u00c3\u00b6teborg DC",
+            "target": "EV Car Battery",
+            "value": 5
+        },
+        {
+            "source": "EV Car Battery",
+            "target": "Antwerp DC",
+            "value": 5
+        },
+        {
+            "source": "Antwerp DC",
+            "target": "Germany",
+            "value": 5
+        },
+        {
+            "source": "Hirthe and Sons",
+            "target": "G\u00c3\u00b6teborg DC",
+            "value": 5
+        },
+        {
+            "source": "Hermiston Group",
+            "target": "EV Car Battery",
+            "value": 5
+        },
+        {
+            "source": "Hirthe-McClure",
+            "target": "Antwerp Production",
+            "value": 5
+        },
+        {
+            "source": "Antwerp DC",
+            "target": "EV Car Battery",
+            "value": 5
+        },
+        {
+            "source": "McGlynn Inc",
+            "target": "Antwerp DC",
+            "value": 5
+        },
+        {
+            "source": "Germany",
+            "target": "Antwerp DC",
+            "value": 5
+        },
+        {
+            "source": "EV Car Battery",
+            "target": "Lyon Production",
+            "value": 5
+        },
+        {
+            "source": "G\u00c3\u00b6teborg DC",
+            "target": "Koelpin-Pouros",
+            "value": 5
+        },
+        {
+            "source": "Wroc\u00c5\u201aaw Production",
+            "target": "Antwerp DC",
+            "value": 5
+        },
+        {
+            "source": "Germany",
+            "target": "Antwerp DC",
+            "value": 5
+        },
+        {
+            "source": "Germany",
+            "target": "Wroc\u00c5\u201aaw Production",
+            "value": 5
+        },
+        {
+            "source": "Home Battery",
+            "target": "Emard-Cronin",
+            "value": 5
+        },
+        {
+            "source": "Wroc\u00c5\u201aaw DC",
+            "target": "Ernser and Sons",
+            "value": 5
+        },
+        {
+            "source": "Greece",
+            "target": "Wroc\u00c5\u201aaw DC",
+            "value": 5
+        },
+        {
+            "source": "Belgium",
+            "target": "Antwerp DC",
+            "value": 5
+        },
+        {
+            "source": "Wroc\u00c5\u201aaw DC",
+            "target": "EV Car Battery",
+            "value": 5
+        },
+        {
+            "source": "Antwerp DC",
+            "target": "Kuvalis-Rogahn",
+            "value": 5
+        },
+        {
+            "source": "Schultz-Mertz",
+            "target": "EV Car Battery",
+            "value": 5
+        },
+        {
+            "source": "Antwerp Production",
+            "target": "Lyon DC",
+            "value": 5
+        },
+        {
+            "source": "EV Car Battery",
+            "target": "Germany",
+            "value": 5
+        },
+        {
+            "source": "Dicki-Rice",
+            "target": "Czech Republic",
+            "value": 5
+        },
+        {
+            "source": "Home Battery",
+            "target": "Terry Group",
+            "value": 5
+        },
+        {
+            "source": "Norway",
+            "target": "EV Car Battery",
+            "value": 5
+        },
+        {
+            "source": "EV Car Battery",
+            "target": "Germany",
+            "value": 5
+        },
+        {
+            "source": "Macejkovic-Wilkinson",
+            "target": "Belgium",
+            "value": 5
+        },
+        {
+            "source": "G\u00c3\u00b6teborg DC",
+            "target": "Lithuania",
+            "value": 5
+        },
+        {
+            "source": "EV Car Battery",
+            "target": "Denesik-Lesch",
+            "value": 5
+        },
+        {
+            "source": "EV Car Battery",
+            "target": "Germany",
+            "value": 5
+        },
+        {
+            "source": "G\u00c3\u00b6teborg DC",
+            "target": "EV Car Battery",
+            "value": 5
+        },
+        {
+            "source": "Slovenia",
+            "target": "Home Battery",
+            "value": 5
+        },
+        {
+            "source": "Antwerp DC",
+            "target": "Lakin and Sons",
+            "value": 5
+        },
+        {
+            "source": "Germany",
+            "target": "EV Car Battery",
+            "value": 5
+        },
+        {
+            "source": "Antwerp DC",
+            "target": "Wroc\u00c5\u201aaw Production",
+            "value": 5
+        },
+        {
+            "source": "Lyon Production",
+            "target": "EV Car Battery",
+            "value": 5
+        },
+        {
+            "source": "Germany",
+            "target": "Antwerp DC",
+            "value": 5
+        },
+        {
+            "source": "Considine-Haley",
+            "target": "Antwerp DC",
+            "value": 5
+        },
+        {
+            "source": "Lithuania",
+            "target": "Green-Kuphal",
+            "value": 5
+        },
+        {
+            "source": "Antwerp DC",
+            "target": "EV Car Battery",
+            "value": 5
+        },
+        {
+            "source": "France",
+            "target": "EV Car Battery",
+            "value": 5
+        },
+        {
+            "source": "McKenzie-McCullough",
+            "target": "G\u00c3\u00b6teborg DC",
+            "value": 5
+        },
+        {
+            "source": "Feest LLC",
+            "target": "EV Car Battery",
+            "value": 5
+        },
+        {
+            "source": "EV Car Battery",
+            "target": "G\u00c3\u00b6teborg DC",
+            "value": 5
+        },
+        {
+            "source": "Germany",
+            "target": "Antwerp DC",
+            "value": 5
+        },
+        {
+            "source": "Rau and Sons",
+            "target": "EV Car Battery",
+            "value": 5
+        },
+        {
+            "source": "Antwerp DC",
+            "target": "Home Battery",
+            "value": 5
+        },
+        {
+            "source": "Wolf Inc",
+            "target": "EV Car Battery",
+            "value": 5
+        },
+        {
+            "source": "EV Car Battery",
+            "target": "Croatia",
+            "value": 5
+        },
+        {
+            "source": "Ward Group",
+            "target": "EV Car Battery",
+            "value": 5
+        },
+        {
+            "source": "EV Car Battery",
+            "target": "Germany",
+            "value": 5
+        },
+        {
+            "source": "Bruen and Sons",
+            "target": "Home Battery",
+            "value": 5
+        },
+        {
+            "source": "Sweden",
+            "target": "EV Car Battery",
+            "value": 5
+        },
+        {
+            "source": "EV Car Battery",
+            "target": "Lyon DC",
+            "value": 5
+        },
+        {
+            "source": "Quitzon LLC",
+            "target": "EV Car Battery",
+            "value": 5
+        },
+        {
+            "source": "EV Car Battery",
+            "target": "Wroc\u00c5\u201aaw Production",
+            "value": 5
+        },
+        {
+            "source": "Antwerp Production",
+            "target": "Poland",
+            "value": 5
+        },
+        {
+            "source": "Antwerp DC",
+            "target": "EV Car Battery",
+            "value": 5
+        },
+        {
+            "source": "Vandervort-Kerluke",
+            "target": "Greece",
+            "value": 5
+        },
+        {
+            "source": "Poland",
+            "target": "Farrell Group",
+            "value": 5
+        },
+        {
+            "source": "Lyon Production",
+            "target": "France",
+            "value": 5
+        },
+        {
+            "source": "EV Car Battery",
+            "target": "Mann-Lowe",
+            "value": 5
+        },
+        {
+            "source": "Lyon DC",
+            "target": "Harris-Murazik",
+            "value": 5
+        },
+        {
+            "source": "Smitham-Ernser",
+            "target": "Antwerp DC",
+            "value": 5
+        },
+        {
+            "source": "Antwerp Production",
+            "target": "EV Car Battery",
+            "value": 5
+        },
+        {
+            "source": "EV Car Battery",
+            "target": "Antwerp DC",
+            "value": 5
+        },
+        {
+            "source": "EV Car Battery",
+            "target": "Baumbach-Price",
+            "value": 5
+        },
+        {
+            "source": "Antwerp DC",
+            "target": "Jerde Group",
+            "value": 5
+        },
+        {
+            "source": "Koelpin LLC",
+            "target": "Antwerp DC",
+            "value": 5
+        },
+        {
+            "source": "Antwerp DC",
+            "target": "Germany",
+            "value": 5
+        },
+        {
+            "source": "Wroc\u00c5\u201aaw Production",
+            "target": "France",
+            "value": 5
+        },
+        {
+            "source": "EV Car Battery",
+            "target": "Belgium",
+            "value": 5
+        },
+        {
+            "source": "G\u00c3\u00b6teborg DC",
+            "target": "Sweden",
+            "value": 5
+        },
+        {
+            "source": "EV Car Battery",
+            "target": "G\u00c3\u00b6teborg DC",
+            "value": 5
+        },
+        {
+            "source": "EV Car Battery",
+            "target": "Poland",
+            "value": 5
+        },
+        {
+            "source": "Latvia",
+            "target": "G\u00c3\u00b6teborg DC",
+            "value": 5
+        },
+        {
+            "source": "Wilkinson Inc",
+            "target": "Germany",
+            "value": 5
+        },
+        {
+            "source": "Koelpin LLC",
+            "target": "Antwerp DC",
+            "value": 5
+        },
+        {
+            "source": "Becker-Wolf",
+            "target": "Wroc\u00c5\u201aaw DC",
+            "value": 5
+        },
+        {
+            "source": "Home Battery",
+            "target": "Germany",
+            "value": 5
+        },
+        {
+            "source": "Wroc\u00c5\u201aaw Production",
+            "target": "Wroc\u00c5\u201aaw DC",
+            "value": 5
+        },
+        {
+            "source": "Lyon Production",
+            "target": "EV Car Battery",
+            "value": 5
+        },
+        {
+            "source": "Lyon DC",
+            "target": "Barrows Group",
+            "value": 5
+        },
+        {
+            "source": "Lyon DC",
+            "target": "Leannon-Ferry",
+            "value": 5
+        },
+        {
+            "source": "Germany",
+            "target": "Antwerp DC",
+            "value": 5
+        },
+        {
+            "source": "Antwerp DC",
+            "target": "EV Car Battery",
+            "value": 5
+        },
+        {
+            "source": "King Group",
+            "target": "Antwerp Production",
+            "value": 5
+        },
+        {
+            "source": "Belgium",
+            "target": "Home Battery",
+            "value": 5
+        },
+        {
+            "source": "Home Battery",
+            "target": "Antwerp DC",
+            "value": 5
+        },
+        {
+            "source": "Antwerp DC",
+            "target": "Germany",
+            "value": 5
+        },
+        {
+            "source": "Antwerp DC",
+            "target": "Auer LLC",
+            "value": 5
+        },
+        {
+            "source": "Moen-Conn",
+            "target": "Wroc\u00c5\u201aaw Production",
+            "value": 5
+        },
+        {
+            "source": "Brown LLC",
+            "target": "France",
+            "value": 5
+        },
+        {
+            "source": "Wroc\u00c5\u201aaw DC",
+            "target": "Poland",
+            "value": 5
+        },
+        {
+            "source": "Becker and Sons",
+            "target": "Antwerp DC",
+            "value": 5
+        },
+        {
+            "source": "EV Car Battery",
+            "target": "Germany",
+            "value": 5
+        },
+        {
+            "source": "Home Battery",
+            "target": "Streich-MacGyver",
+            "value": 5
+        },
+        {
+            "source": "O'Hara and Sons",
+            "target": "Germany",
+            "value": 5
+        },
+        {
+            "source": "EV Car Battery",
+            "target": "Lyon DC",
+            "value": 5
+        },
+        {
+            "source": "Portugal",
+            "target": "Rempel and Sons",
+            "value": 5
+        },
+        {
+            "source": "Wroc\u00c5\u201aaw Production",
+            "target": "Antwerp DC",
+            "value": 5
+        },
+        {
+            "source": "G\u00c3\u00b6teborg DC",
+            "target": "Lithuania",
+            "value": 5
+        },
+        {
+            "source": "McGlynn Inc",
+            "target": "EV Car Battery",
+            "value": 5
+        },
+        {
+            "source": "Hayes-Gottlieb",
+            "target": "Wroc\u00c5\u201aaw DC",
+            "value": 5
+        },
+        {
+            "source": "Antwerp DC",
+            "target": "Wroc\u00c5\u201aaw Production",
+            "value": 5
+        },
+        {
+            "source": "EV Car Battery",
+            "target": "Anderson-Spinka",
+            "value": 5
+        },
+        {
+            "source": "Germany",
+            "target": "Ledner-Hilpert",
+            "value": 5
+        },
+        {
+            "source": "EV Car Battery",
+            "target": "Will Inc",
+            "value": 5
+        },
+        {
+            "source": "Sawayn Group",
+            "target": "Antwerp Production",
+            "value": 5
+        },
+        {
+            "source": "EV Car Battery",
+            "target": "Antwerp DC",
+            "value": 5
+        },
+        {
+            "source": "EV Car Battery",
+            "target": "Wroc\u00c5\u201aaw DC",
+            "value": 5
+        },
+        {
+            "source": "Germany",
+            "target": "Stanton-Wisozk",
+            "value": 5
+        },
+        {
+            "source": "Portugal",
+            "target": "EV Car Battery",
+            "value": 5
+        },
+        {
+            "source": "Home Battery",
+            "target": "Kuvalis-Rogahn",
+            "value": 5
+        },
+        {
+            "source": "EV Car Battery",
+            "target": "Mitchell Group",
+            "value": 5
+        },
+        {
+            "source": "McKenzie-Harber",
+            "target": "Denmark",
+            "value": 5
+        },
+        {
+            "source": "EV Car Battery",
+            "target": "Germany",
+            "value": 5
+        },
+        {
+            "source": "Wroc\u00c5\u201aaw DC",
+            "target": "Antwerp Production",
+            "value": 5
+        },
+        {
+            "source": "Hungary",
+            "target": "EV Car Battery",
+            "value": 5
+        },
+        {
+            "source": "G\u00c3\u00b6teborg DC",
+            "target": "Nikolaus LLC",
+            "value": 5
+        },
+        {
+            "source": "France",
+            "target": "EV Car Battery",
+            "value": 5
+        },
+        {
+            "source": "Germany",
+            "target": "Schoen Group",
+            "value": 5
+        },
+        {
+            "source": "Schneider-Wunsch",
+            "target": "Sweden",
+            "value": 5
+        },
+        {
+            "source": "Ernser Inc",
+            "target": "Wroc\u00c5\u201aaw DC",
+            "value": 5
+        },
+        {
+            "source": "EV Car Battery",
+            "target": "Kuhic-Hintz",
+            "value": 5
+        },
+        {
+            "source": "Kutch-Watsica",
+            "target": "Lyon DC",
+            "value": 5
+        },
+        {
+            "source": "Wroc\u00c5\u201aaw DC",
+            "target": "EV Car Battery",
+            "value": 5
+        },
+        {
+            "source": "Germany",
+            "target": "Ledner-Cummings",
+            "value": 5
+        },
+        {
+            "source": "Home Battery",
+            "target": "Sipes-Grimes",
+            "value": 5
+        },
+        {
+            "source": "Wroc\u00c5\u201aaw Production",
+            "target": "EV Car Battery",
+            "value": 5
+        },
+        {
+            "source": "EV Car Battery",
+            "target": "G\u00c3\u00b6teborg DC",
+            "value": 5
+        },
+        {
+            "source": "EV Car Battery",
+            "target": "Germany",
+            "value": 5
+        },
+        {
+            "source": "Antwerp DC",
+            "target": "Lyon Production",
+            "value": 5
+        },
+        {
+            "source": "Lyon Production",
+            "target": "EV Car Battery",
+            "value": 5
+        },
+        {
+            "source": "EV Car Battery",
+            "target": "Antwerp DC",
+            "value": 5
+        },
+        {
+            "source": "Antwerp DC",
+            "target": "Belgium",
+            "value": 5
+        },
+        {
+            "source": "Antwerp DC",
+            "target": "Home Battery",
+            "value": 5
+        },
+        {
+            "source": "Collins Group",
+            "target": "Home Battery",
+            "value": 5
+        },
+        {
+            "source": "Wroc\u00c5\u201aaw DC",
+            "target": "Home Battery",
+            "value": 5
+        },
+        {
+            "source": "EV Car Battery",
+            "target": "Germany",
+            "value": 5
+        },
+        {
+            "source": "Lyon Production",
+            "target": "Germany",
+            "value": 5
+        },
+        {
+            "source": "Bergnaum Inc",
+            "target": "Home Battery",
+            "value": 5
+        },
+        {
+            "source": "EV Car Battery",
+            "target": "Stamm-Bogisich",
+            "value": 5
+        },
+        {
+            "source": "Portugal",
+            "target": "EV Car Battery",
+            "value": 5
+        },
+        {
+            "source": "France",
+            "target": "Schultz-Mertz",
+            "value": 5
+        },
+        {
+            "source": "EV Car Battery",
+            "target": "O'Conner-Lind",
+            "value": 5
+        },
+        {
+            "source": "Lyon Production",
+            "target": "G\u00c3\u00b6teborg DC",
+            "value": 5
+        },
+        {
+            "source": "Lyon DC",
+            "target": "France",
+            "value": 5
+        },
+        {
+            "source": "EV Car Battery",
+            "target": "Antwerp DC",
+            "value": 5
+        },
+        {
+            "source": "Kling-Walker",
+            "target": "Germany",
+            "value": 5
+        },
+        {
+            "source": "Antwerp DC",
+            "target": "EV Car Battery",
+            "value": 5
+        },
+        {
+            "source": "Sweden",
+            "target": "Rosenbaum LLC",
+            "value": 5
+        },
+        {
+            "source": "Wroc\u00c5\u201aaw Production",
+            "target": "Slovenia",
+            "value": 5
+        },
+        {
+            "source": "EV Car Battery",
+            "target": "Germany",
+            "value": 5
+        },
+        {
+            "source": "McCullough-Kihn",
+            "target": "Germany",
+            "value": 5
+        },
+        {
+            "source": "Home Battery",
+            "target": "Germany",
+            "value": 5
+        },
+        {
+            "source": "Finland",
+            "target": "G\u00c3\u00b6teborg DC",
+            "value": 5
+        },
+        {
+            "source": "EV Car Battery",
+            "target": "Wolf Inc",
+            "value": 5
+        },
+        {
+            "source": "EV Car Battery",
+            "target": "Antwerp DC",
+            "value": 5
+        },
+        {
+            "source": "EV Car Battery",
+            "target": "Lyon DC",
+            "value": 5
+        },
+        {
+            "source": "EV Car Battery",
+            "target": "Antwerp DC",
+            "value": 5
+        },
+        {
+            "source": "France",
+            "target": "Abbott-Hintz",
+            "value": 5
+        },
+        {
+            "source": "Wroc\u00c5\u201aaw DC",
+            "target": "Lyon Production",
+            "value": 5
+        },
+        {
+            "source": "Germany",
+            "target": "EV Car Battery",
+            "value": 5
+        },
+        {
+            "source": "Antwerp Production",
+            "target": "Czech Republic",
+            "value": 5
+        },
+        {
+            "source": "EV Car Battery",
+            "target": "Wroc\u00c5\u201aaw DC",
+            "value": 5
+        },
+        {
+            "source": "EV Car Battery",
+            "target": "Wroc\u00c5\u201aaw DC",
+            "value": 5
+        },
+        {
+            "source": "Home Battery",
+            "target": "Wroc\u00c5\u201aaw DC",
+            "value": 5
+        },
+        {
+            "source": "Germany",
+            "target": "Antwerp DC",
+            "value": 5
+        },
+        {
+            "source": "Home Battery",
+            "target": "Wroc\u00c5\u201aaw Production",
+            "value": 5
+        },
+        {
+            "source": "Ferry and Sons",
+            "target": "Germany",
+            "value": 5
+        },
+        {
+            "source": "EV Car Battery",
+            "target": "Wroc\u00c5\u201aaw DC",
+            "value": 5
+        },
+        {
+            "source": "Wroc\u00c5\u201aaw Production",
+            "target": "EV Car Battery",
+            "value": 5
+        },
+        {
+            "source": "Antwerp DC",
+            "target": "Home Battery",
+            "value": 5
+        },
+        {
+            "source": "EV Car Battery",
+            "target": "Lyon Production",
+            "value": 5
+        },
+        {
+            "source": "Jast Inc",
+            "target": "Belgium",
+            "value": 5
+        },
+        {
+            "source": "Murphy-Hirthe",
+            "target": "Sweden",
+            "value": 5
+        },
+        {
+            "source": "Block and Sons",
+            "target": "G\u00c3\u00b6teborg DC",
+            "value": 5
+        },
+        {
+            "source": "Wroc\u00c5\u201aaw Production",
+            "target": "Antwerp DC",
+            "value": 5
+        },
+        {
+            "source": "EV Car Battery",
+            "target": "Lyon Production",
+            "value": 5
+        },
+        {
+            "source": "EV Car Battery",
+            "target": "Hills LLC",
+            "value": 5
+        },
+        {
+            "source": "Harvey Group",
+            "target": "Home Battery",
+            "value": 5
+        },
+        {
+            "source": "O'Hara-MacGyver",
+            "target": "Antwerp DC",
+            "value": 5
+        },
+        {
+            "source": "Antwerp DC",
+            "target": "Belgium",
+            "value": 5
+        },
+        {
+            "source": "Netherlands",
+            "target": "Antwerp DC",
+            "value": 5
+        },
+        {
+            "source": "Antwerp Production",
+            "target": "EV Car Battery",
+            "value": 5
+        },
+        {
+            "source": "Wroc\u00c5\u201aaw DC",
+            "target": "Greece",
+            "value": 5
+        },
+        {
+            "source": "Wroc\u00c5\u201aaw Production",
+            "target": "Portugal",
+            "value": 5
+        },
+        {
+            "source": "EV Car Battery",
+            "target": "Antwerp DC",
+            "value": 5
+        },
+        {
+            "source": "Home Battery",
+            "target": "Will Inc",
+            "value": 5
+        },
+        {
+            "source": "Greece",
+            "target": "EV Car Battery",
+            "value": 5
+        },
+        {
+            "source": "Lyon Production",
+            "target": "Antwerp DC",
+            "value": 5
+        },
+        {
+            "source": "France",
+            "target": "Grimes LLC",
+            "value": 5
+        },
+        {
+            "source": "Mertz-O'Hara",
+            "target": "Antwerp DC",
+            "value": 5
+        },
+        {
+            "source": "McCullough LLC",
+            "target": "Antwerp DC",
+            "value": 5
+        },
+        {
+            "source": "EV Car Battery",
+            "target": "Hoppe Group",
+            "value": 5
+        },
+        {
+            "source": "Antwerp DC",
+            "target": "Nitzsche LLC",
+            "value": 5
+        },
+        {
+            "source": "Poland",
+            "target": "Home Battery",
+            "value": 5
+        },
+        {
+            "source": "Lyon DC",
+            "target": "Portugal",
+            "value": 5
+        },
+        {
+            "source": "Antwerp DC",
+            "target": "Antwerp Production",
+            "value": 5
+        },
+        {
+            "source": "G\u00c3\u00b6teborg DC",
+            "target": "EV Car Battery",
+            "value": 5
+        },
+        {
+            "source": "Denmark",
+            "target": "EV Car Battery",
+            "value": 5
+        },
+        {
+            "source": "Greece",
+            "target": "Parisian-Wiza",
+            "value": 5
+        },
+        {
+            "source": "Germany",
+            "target": "Monahan-Dickinson",
+            "value": 5
+        },
+        {
+            "source": "Pollich-Kuphal",
+            "target": "G\u00c3\u00b6teborg DC",
+            "value": 5
+        },
+        {
+            "source": "G\u00c3\u00b6teborg DC",
+            "target": "EV Car Battery",
+            "value": 5
+        },
+        {
+            "source": "Streich-MacGyver",
+            "target": "France",
+            "value": 5
+        },
+        {
+            "source": "Sweden",
+            "target": "Home Battery",
+            "value": 5
+        },
+        {
+            "source": "Antwerp Production",
+            "target": "Antwerp DC",
+            "value": 5
+        },
+        {
+            "source": "Home Battery",
+            "target": "G\u00c3\u00b6teborg DC",
+            "value": 5
+        },
+        {
+            "source": "Bayer-Kozey",
+            "target": "Greece",
+            "value": 5
+        },
+        {
+            "source": "Lyon DC",
+            "target": "Home Battery",
+            "value": 5
+        },
+        {
+            "source": "Poland",
+            "target": "EV Car Battery",
+            "value": 5
+        },
+        {
+            "source": "EV Car Battery",
+            "target": "Germany",
+            "value": 5
+        },
+        {
+            "source": "Moen-Zboncak",
+            "target": "Germany",
+            "value": 5
+        },
+        {
+            "source": "O'Hara and Sons",
+            "target": "EV Car Battery",
+            "value": 5
+        },
+        {
+            "source": "Wroc\u00c5\u201aaw DC",
+            "target": "Home Battery",
+            "value": 5
+        },
+        {
+            "source": "EV Car Battery",
+            "target": "Wroc\u00c5\u201aaw Production",
+            "value": 5
+        },
+        {
+            "source": "EV Car Battery",
+            "target": "Ward Group",
+            "value": 5
+        },
+        {
+            "source": "Wroc\u00c5\u201aaw DC",
+            "target": "EV Car Battery",
+            "value": 5
+        },
+        {
+            "source": "France",
+            "target": "Von-Morissette",
+            "value": 5
+        },
+        {
+            "source": "Germany",
+            "target": "Antwerp DC",
+            "value": 5
+        },
+        {
+            "source": "Nitzsche LLC",
+            "target": "Home Battery",
+            "value": 5
+        },
+        {
+            "source": "Wroc\u00c5\u201aaw Production",
+            "target": "Lesch-Carter",
+            "value": 5
+        },
+        {
+            "source": "Boehm-Bayer",
+            "target": "EV Car Battery",
+            "value": 5
+        },
+        {
+            "source": "EV Car Battery",
+            "target": "Poland",
+            "value": 5
+        },
+        {
+            "source": "Lithuania",
+            "target": "Wroc\u00c5\u201aaw Production",
+            "value": 5
+        },
+        {
+            "source": "EV Car Battery",
+            "target": "Bogan and Sons",
+            "value": 5
+        },
+        {
+            "source": "Lyon DC",
+            "target": "Bosco-Bergnaum",
+            "value": 5
+        },
+        {
+            "source": "Wroc\u00c5\u201aaw Production",
+            "target": "Germany",
+            "value": 5
+        },
+        {
+            "source": "Russel Group",
+            "target": "Greece",
+            "value": 5
+        },
+        {
+            "source": "Portugal",
+            "target": "EV Car Battery",
+            "value": 5
+        },
+        {
+            "source": "Germany",
+            "target": "Casper and Sons",
+            "value": 5
+        },
+        {
+            "source": "Germany",
+            "target": "Bernhard-Bartell",
+            "value": 5
+        },
+        {
+            "source": "Wroc\u00c5\u201aaw DC",
+            "target": "Schroeder and Sons",
+            "value": 5
+        },
+        {
+            "source": "Estonia",
+            "target": "Antwerp Production",
+            "value": 5
+        },
+        {
+            "source": "Lyon Production",
+            "target": "EV Car Battery",
+            "value": 5
+        },
+        {
+            "source": "G\u00c3\u00b6teborg DC",
+            "target": "EV Car Battery",
+            "value": 5
+        },
+        {
+            "source": "EV Car Battery",
+            "target": "Poland",
+            "value": 5
+        },
+        {
+            "source": "Okuneva Inc",
+            "target": "Antwerp Production",
+            "value": 5
+        },
+        {
+            "source": "EV Car Battery",
+            "target": "Belgium",
+            "value": 5
+        },
+        {
+            "source": "Home Battery",
+            "target": "Germany",
+            "value": 5
+        },
+        {
+            "source": "EV Car Battery",
+            "target": "Grimes Inc",
+            "value": 5
+        },
+        {
+            "source": "EV Car Battery",
+            "target": "Hettinger-Renner",
+            "value": 5
+        },
+        {
+            "source": "EV Car Battery",
+            "target": "Antwerp DC",
+            "value": 5
+        },
+        {
+            "source": "Lyon Production",
+            "target": "Lyon DC",
+            "value": 5
+        },
+        {
+            "source": "EV Car Battery",
+            "target": "Germany",
+            "value": 5
+        },
+        {
+            "source": "EV Car Battery",
+            "target": "France",
+            "value": 5
+        },
+        {
+            "source": "Lyon Production",
+            "target": "EV Car Battery",
+            "value": 5
+        },
+        {
+            "source": "Lyon DC",
+            "target": "EV Car Battery",
+            "value": 5
+        },
+        {
+            "source": "EV Car Battery",
+            "target": "Lakin Inc",
+            "value": 5
+        },
+        {
+            "source": "Lyon DC",
+            "target": "EV Car Battery",
+            "value": 5
+        },
+        {
+            "source": "France",
+            "target": "EV Car Battery",
+            "value": 5
+        },
+        {
+            "source": "Belgium",
+            "target": "Lynch Group",
+            "value": 5
+        },
+        {
+            "source": "EV Car Battery",
+            "target": "Lyon Production",
+            "value": 5
+        },
+        {
+            "source": "G\u00c3\u00b6teborg DC",
+            "target": "Latvia",
+            "value": 5
+        },
+        {
+            "source": "Bergnaum LLC",
+            "target": "EV Car Battery",
+            "value": 5
+        },
+        {
+            "source": "Poland",
+            "target": "Wroc\u00c5\u201aaw DC",
+            "value": 5
+        },
+        {
+            "source": "Wroc\u00c5\u201aaw Production",
+            "target": "Home Battery",
+            "value": 5
+        },
+        {
+            "source": "Kreiger Group",
+            "target": "EV Car Battery",
+            "value": 5
+        },
+        {
+            "source": "O'Kon Group",
+            "target": "G\u00c3\u00b6teborg DC",
+            "value": 5
+        },
+        {
+            "source": "Cummerata-Collins",
+            "target": "Lyon DC",
+            "value": 5
+        },
+        {
+            "source": "EV Car Battery",
+            "target": "Belgium",
+            "value": 5
+        },
+        {
+            "source": "Germany",
+            "target": "Jast-West",
+            "value": 5
+        },
+        {
+            "source": "EV Car Battery",
+            "target": "Connelly LLC",
+            "value": 5
+        },
+        {
+            "source": "Lyon DC",
+            "target": "Home Battery",
+            "value": 5
+        },
+        {
+            "source": "G\u00c3\u00b6teborg DC",
+            "target": "EV Car Battery",
+            "value": 5
+        },
+        {
+            "source": "Wroc\u00c5\u201aaw Production",
+            "target": "Padberg and Sons",
+            "value": 5
+        },
+        {
+            "source": "EV Car Battery",
+            "target": "Wroc\u00c5\u201aaw DC",
+            "value": 5
+        },
+        {
+            "source": "Sweden",
+            "target": "EV Car Battery",
+            "value": 5
+        },
+        {
+            "source": "Croatia",
+            "target": "Lyon DC",
+            "value": 5
+        },
+        {
+            "source": "Blanda-Dicki",
+            "target": "Antwerp DC",
+            "value": 5
+        },
+        {
+            "source": "Bruen and Sons",
+            "target": "EV Car Battery",
+            "value": 5
+        },
+        {
+            "source": "Bayer-Kozey",
+            "target": "Greece",
+            "value": 5
+        },
+        {
+            "source": "France",
+            "target": "Ruecker-Klein",
+            "value": 5
+        },
+        {
+            "source": "EV Car Battery",
+            "target": "Walter-Herman",
+            "value": 5
+        },
+        {
+            "source": "Kunze-Johns",
+            "target": "EV Car Battery",
+            "value": 5
+        },
+        {
+            "source": "EV Car Battery",
+            "target": "Germany",
+            "value": 5
+        },
+        {
+            "source": "Antwerp DC",
+            "target": "Belgium",
+            "value": 5
+        },
+        {
+            "source": "Ritchie-Bayer",
+            "target": "Wroc\u00c5\u201aaw DC",
+            "value": 5
+        },
+        {
+            "source": "Wroc\u00c5\u201aaw DC",
+            "target": "Vandervort-Kerluke",
+            "value": 5
+        },
+        {
+            "source": "Schamberger-Schmidt",
+            "target": "EV Car Battery",
+            "value": 5
+        },
+        {
+            "source": "Germany",
+            "target": "Wroc\u00c5\u201aaw Production",
+            "value": 5
+        },
+        {
+            "source": "EV Car Battery",
+            "target": "Strosin LLC",
+            "value": 5
+        },
+        {
+            "source": "Wroc\u00c5\u201aaw DC",
+            "target": "Czech Republic",
+            "value": 5
+        },
+        {
+            "source": "G\u00c3\u00b6teborg DC",
+            "target": "Sweden",
+            "value": 5
+        },
+        {
+            "source": "Wroc\u00c5\u201aaw DC",
+            "target": "EV Car Battery",
+            "value": 5
+        },
+        {
+            "source": "Klocko Inc",
+            "target": "Germany",
+            "value": 5
+        },
+        {
+            "source": "France",
+            "target": "Reinger Inc",
+            "value": 5
+        },
+        {
+            "source": "Slovenia",
+            "target": "Hills LLC",
+            "value": 5
+        },
+        {
+            "source": "Antwerp Production",
+            "target": "Germany",
+            "value": 5
+        },
+        {
+            "source": "Klocko Inc",
+            "target": "EV Car Battery",
+            "value": 5
+        },
+        {
+            "source": "Rogahn Group",
+            "target": "Antwerp Production",
+            "value": 5
+        },
+        {
+            "source": "Germany",
+            "target": "Antwerp DC",
+            "value": 5
+        },
+        {
+            "source": "Home Battery",
+            "target": "Germany",
+            "value": 5
+        },
+        {
+            "source": "Antwerp DC",
+            "target": "Breitenberg Group",
+            "value": 5
+        },
+        {
+            "source": "Germany",
+            "target": "EV Car Battery",
+            "value": 5
+        },
+        {
+            "source": "Home Battery",
+            "target": "Hintz-Purdy",
+            "value": 5
+        },
+        {
+            "source": "Lang Inc",
+            "target": "EV Car Battery",
+            "value": 5
+        },
+        {
+            "source": "EV Car Battery",
+            "target": "Antwerp DC",
+            "value": 5
+        },
+        {
+            "source": "EV Car Battery",
+            "target": "Germany",
+            "value": 5
+        },
+        {
+            "source": "Czech Republic",
+            "target": "Home Battery",
+            "value": 5
+        },
+        {
+            "source": "Batz Inc",
+            "target": "EV Car Battery",
+            "value": 5
+        },
+        {
+            "source": "EV Car Battery",
+            "target": "Netherlands",
+            "value": 5
+        },
+        {
+            "source": "Lyon DC",
+            "target": "Spain",
+            "value": 5
+        },
+        {
+            "source": "Germany",
+            "target": "Antwerp DC",
+            "value": 5
+        },
+        {
+            "source": "EV Car Battery",
+            "target": "Wroc\u00c5\u201aaw DC",
+            "value": 5
+        },
+        {
+            "source": "G\u00c3\u00b6teborg DC",
+            "target": "Nader-Tremblay",
+            "value": 5
+        },
+        {
+            "source": "Antwerp DC",
+            "target": "EV Car Battery",
+            "value": 5
+        },
+        {
+            "source": "Czech Republic",
+            "target": "Antwerp Production",
+            "value": 5
+        },
+        {
+            "source": "EV Car Battery",
+            "target": "Germany",
+            "value": 5
+        },
+        {
+            "source": "Hodkiewicz LLC",
+            "target": "EV Car Battery",
+            "value": 5
+        },
+        {
+            "source": "Lyon DC",
+            "target": "Home Battery",
+            "value": 5
+        },
+        {
+            "source": "Antwerp DC",
+            "target": "EV Car Battery",
+            "value": 5
+        },
+        {
+            "source": "Antwerp Production",
+            "target": "EV Car Battery",
+            "value": 5
+        },
+        {
+            "source": "Lyon Production",
+            "target": "EV Car Battery",
+            "value": 5
+        },
+        {
+            "source": "Lyon DC",
+            "target": "Kiehn Inc",
+            "value": 5
+        },
+        {
+            "source": "Home Battery",
+            "target": "Poland",
+            "value": 5
+        },
+        {
+            "source": "Germany",
+            "target": "Antwerp DC",
+            "value": 5
+        },
+        {
+            "source": "Home Battery",
+            "target": "Johns-Donnelly",
+            "value": 5
+        },
+        {
+            "source": "EV Car Battery",
+            "target": "G\u00c3\u00b6teborg DC",
+            "value": 5
+        },
+        {
+            "source": "Antwerp DC",
+            "target": "West LLC",
+            "value": 5
+        },
+        {
+            "source": "Belgium",
+            "target": "Wroc\u00c5\u201aaw Production",
+            "value": 5
+        },
+        {
+            "source": "Antwerp DC",
+            "target": "Dare and Sons",
+            "value": 5
+        },
+        {
+            "source": "EV Car Battery",
+            "target": "Zulauf-Ryan",
+            "value": 5
+        },
+        {
+            "source": "EV Car Battery",
+            "target": "Abbott and Sons",
+            "value": 5
+        },
+        {
+            "source": "EV Car Battery",
+            "target": "Prohaska-Batz",
+            "value": 5
+        },
+        {
+            "source": "Antwerp DC",
+            "target": "Belgium",
+            "value": 5
+        },
+        {
+            "source": "Belgium",
+            "target": "Antwerp DC",
+            "value": 5
+        },
+        {
+            "source": "Germany",
+            "target": "Russel and Sons",
+            "value": 5
+        },
+        {
+            "source": "Antwerp DC",
+            "target": "Germany",
+            "value": 5
+        },
+        {
+            "source": "Germany",
+            "target": "Antwerp DC",
+            "value": 5
+        },
+        {
+            "source": "Germany",
+            "target": "Antwerp DC",
+            "value": 5
+        },
+        {
+            "source": "EV Car Battery",
+            "target": "Antwerp DC",
+            "value": 5
+        },
+        {
+            "source": "Finland",
+            "target": "G\u00c3\u00b6teborg DC",
+            "value": 5
+        },
+        {
+            "source": "Batz Inc",
+            "target": "EV Car Battery",
+            "value": 5
+        },
+        {
+            "source": "EV Car Battery",
+            "target": "Sweden",
+            "value": 5
+        },
+        {
+            "source": "Reichert-Leuschke",
+            "target": "EV Car Battery",
+            "value": 5
+        },
+        {
+            "source": "Antwerp Production",
+            "target": "Buckridge and Sons",
+            "value": 5
+        },
+        {
+            "source": "Lehner LLC",
+            "target": "Wroc\u00c5\u201aaw Production",
+            "value": 5
+        },
+        {
+            "source": "Greece",
+            "target": "Koepp-Hayes",
+            "value": 5
+        },
+        {
+            "source": "Jacobson LLC",
+            "target": "Antwerp DC",
+            "value": 5
+        },
+        {
+            "source": "Wroc\u00c5\u201aaw Production",
+            "target": "EV Car Battery",
+            "value": 5
+        },
+        {
+            "source": "Czech Republic",
+            "target": "Wroc\u00c5\u201aaw DC",
+            "value": 5
+        },
+        {
+            "source": "EV Car Battery",
+            "target": "Haag-Greenfelder",
+            "value": 5
+        },
+        {
+            "source": "Rogahn Group",
+            "target": "Lyon DC",
+            "value": 5
+        },
+        {
+            "source": "Wroc\u00c5\u201aaw Production",
+            "target": "EV Car Battery",
+            "value": 5
+        },
+        {
+            "source": "EV Car Battery",
+            "target": "Poland",
+            "value": 5
+        },
+        {
+            "source": "Sweden",
+            "target": "Thiel-Nikolaus",
+            "value": 5
+        },
+        {
+            "source": "EV Car Battery",
+            "target": "Lubowitz-Bosco",
+            "value": 5
+        },
+        {
+            "source": "Home Battery",
+            "target": "Bogisich Group",
+            "value": 5
+        },
+        {
+            "source": "Monahan and Sons",
+            "target": "Germany",
+            "value": 5
+        },
+        {
+            "source": "Shields Group",
+            "target": "EV Car Battery",
+            "value": 5
+        },
+        {
+            "source": "Lynch-Goyette",
+            "target": "EV Car Battery",
+            "value": 5
+        },
+        {
+            "source": "Greece",
+            "target": "EV Car Battery",
+            "value": 5
+        },
+        {
+            "source": "Home Battery",
+            "target": "Ernser Inc",
+            "value": 5
+        },
+        {
+            "source": "Antwerp DC",
+            "target": "Germany",
+            "value": 5
+        },
+        {
+            "source": "Germany",
+            "target": "EV Car Battery",
+            "value": 5
+        },
+        {
+            "source": "Germany",
+            "target": "Wroc\u00c5\u201aaw Production",
+            "value": 5
+        },
+        {
+            "source": "Wiza LLC",
+            "target": "Antwerp DC",
+            "value": 5
+        },
+        {
+            "source": "Rau and Sons",
+            "target": "EV Car Battery",
+            "value": 5
+        },
+        {
+            "source": "Home Battery",
+            "target": "Greece",
+            "value": 5
+        },
+        {
+            "source": "Lyon DC",
+            "target": "Haag-Greenfelder",
+            "value": 5
+        },
+        {
+            "source": "O'Conner-Lind",
+            "target": "Czech Republic",
+            "value": 5
+        },
+        {
+            "source": "G\u00c3\u00b6teborg DC",
+            "target": "EV Car Battery",
+            "value": 5
+        },
+        {
+            "source": "Home Battery",
+            "target": "Wroc\u00c5\u201aaw DC",
+            "value": 5
+        },
+        {
+            "source": "G\u00c3\u00b6teborg DC",
+            "target": "Green-Kuphal",
+            "value": 5
+        },
+        {
+            "source": "Wroc\u00c5\u201aaw DC",
+            "target": "Hilpert and Sons",
+            "value": 5
+        },
+        {
+            "source": "Lyon DC",
+            "target": "Schimmel Inc",
+            "value": 5
+        },
+        {
+            "source": "Germany",
+            "target": "Wroc\u00c5\u201aaw Production",
+            "value": 5
+        },
+        {
+            "source": "O'Conner-Stokes",
+            "target": "Antwerp DC",
+            "value": 5
+        },
+        {
+            "source": "Sweden",
+            "target": "EV Car Battery",
+            "value": 5
+        },
+        {
+            "source": "EV Car Battery",
+            "target": "Pollich-Boyle",
+            "value": 5
+        },
+        {
+            "source": "EV Car Battery",
+            "target": "G\u00c3\u00b6teborg DC",
+            "value": 5
+        },
+        {
+            "source": "G\u00c3\u00b6teborg DC",
+            "target": "EV Car Battery",
+            "value": 5
+        },
+        {
+            "source": "Toy-Beatty",
+            "target": "EV Car Battery",
+            "value": 5
+        },
+        {
+            "source": "EV Car Battery",
+            "target": "Ernser Inc",
+            "value": 5
+        },
+        {
+            "source": "Hodkiewicz LLC",
+            "target": "EV Car Battery",
+            "value": 5
+        },
+        {
+            "source": "Greece",
+            "target": "EV Car Battery",
+            "value": 5
+        },
+        {
+            "source": "EV Car Battery",
+            "target": "Smitham and Sons",
+            "value": 5
+        },
+        {
+            "source": "West LLC",
+            "target": "Antwerp DC",
+            "value": 5
+        },
+        {
+            "source": "G\u00c3\u00b6teborg DC",
+            "target": "Norway",
+            "value": 5
+        },
+        {
+            "source": "Kuvalis-Bahringer",
+            "target": "G\u00c3\u00b6teborg DC",
+            "value": 5
+        },
+        {
+            "source": "Finland",
+            "target": "Pagac and Sons",
+            "value": 5
+        },
+        {
+            "source": "McDermott Group",
+            "target": "EV Car Battery",
+            "value": 5
+        },
+        {
+            "source": "EV Car Battery",
+            "target": "Antwerp DC",
+            "value": 5
+        },
+        {
+            "source": "EV Car Battery",
+            "target": "Wroc\u00c5\u201aaw DC",
+            "value": 5
+        },
+        {
+            "source": "Antwerp DC",
+            "target": "EV Car Battery",
+            "value": 5
+        },
+        {
+            "source": "Antwerp DC",
+            "target": "Kling-Walker",
+            "value": 5
+        },
+        {
+            "source": "EV Car Battery",
+            "target": "Belgium",
+            "value": 5
+        },
+        {
+            "source": "Antwerp Production",
+            "target": "Kautzer Group",
+            "value": 5
+        },
+        {
+            "source": "Bernhard-Bartell",
+            "target": "EV Car Battery",
+            "value": 5
+        },
+        {
+            "source": "Lyon DC",
+            "target": "Smitham and Sons",
+            "value": 5
+        },
+        {
+            "source": "France",
+            "target": "Lowe Group",
+            "value": 5
+        },
+        {
+            "source": "Wroc\u00c5\u201aaw DC",
+            "target": "Graham-Upton",
+            "value": 5
+        },
+        {
+            "source": "Germany",
+            "target": "Antwerp DC",
+            "value": 5
+        },
+        {
+            "source": "Home Battery",
+            "target": "Belgium",
+            "value": 5
+        },
+        {
+            "source": "G\u00c3\u00b6teborg DC",
+            "target": "Rau-Osinski",
+            "value": 5
+        },
+        {
+            "source": "Kautzer Group",
+            "target": "Wroc\u00c5\u201aaw DC",
+            "value": 5
+        },
+        {
+            "source": "Lyon DC",
+            "target": "Bosco-Bergnaum",
+            "value": 5
+        },
+        {
+            "source": "EV Car Battery",
+            "target": "Schuppe Inc",
+            "value": 5
+        },
+        {
+            "source": "Lyon Production",
+            "target": "Heidenreich-Stracke",
+            "value": 5
+        },
+        {
+            "source": "Home Battery",
+            "target": "Wroc\u00c5\u201aaw Production",
+            "value": 5
+        },
+        {
+            "source": "G\u00c3\u00b6teborg DC",
+            "target": "Wroc\u00c5\u201aaw Production",
+            "value": 5
+        },
+        {
+            "source": "Germany",
+            "target": "EV Car Battery",
+            "value": 5
+        },
+        {
+            "source": "Belgium",
+            "target": "Antwerp DC",
+            "value": 5
+        },
+        {
+            "source": "Runte Group",
+            "target": "EV Car Battery",
+            "value": 5
+        },
+        {
+            "source": "Lithuania",
+            "target": "G\u00c3\u00b6teborg DC",
+            "value": 5
+        },
+        {
+            "source": "Czech Republic",
+            "target": "Kautzer Group",
+            "value": 5
+        },
+        {
+            "source": "EV Car Battery",
+            "target": "Wroc\u00c5\u201aaw DC",
+            "value": 5
+        },
+        {
+            "source": "EV Car Battery",
+            "target": "Antwerp DC",
+            "value": 5
+        },
+        {
+            "source": "Germany",
+            "target": "Home Battery",
+            "value": 5
+        },
+        {
+            "source": "Antwerp Production",
+            "target": "EV Car Battery",
+            "value": 5
+        },
+        {
+            "source": "EV Car Battery",
+            "target": "Antwerp DC",
+            "value": 5
+        },
+        {
+            "source": "Norway",
+            "target": "G\u00c3\u00b6teborg DC",
+            "value": 5
+        },
+        {
+            "source": "McLaughlin-Schuster",
+            "target": "EV Car Battery",
+            "value": 5
+        },
+        {
+            "source": "McClure LLC",
+            "target": "Wroc\u00c5\u201aaw DC",
+            "value": 5
+        },
+        {
+            "source": "Germany",
+            "target": "Kris-Deckow",
+            "value": 5
+        },
+        {
+            "source": "Lyon DC",
+            "target": "Hilll-Waters",
+            "value": 5
+        },
+        {
+            "source": "Pfeffer and Sons",
+            "target": "EV Car Battery",
+            "value": 5
+        },
+        {
+            "source": "Bartoletti-Stehr",
+            "target": "France",
+            "value": 5
+        },
+        {
+            "source": "Lyon DC",
+            "target": "Rempel and Sons",
+            "value": 5
+        },
+        {
+            "source": "Home Battery",
+            "target": "Greece",
+            "value": 5
+        },
+        {
+            "source": "EV Car Battery",
+            "target": "Wroc\u00c5\u201aaw DC",
+            "value": 5
+        },
+        {
+            "source": "Germany",
+            "target": "Antwerp Production",
+            "value": 5
+        },
+        {
+            "source": "Feest LLC",
+            "target": "Greece",
+            "value": 5
+        },
+        {
+            "source": "Wroc\u00c5\u201aaw Production",
+            "target": "Brekke Group",
+            "value": 5
+        },
+        {
+            "source": "EV Car Battery",
+            "target": "Howe-Jacobson",
+            "value": 5
+        },
+        {
+            "source": "Antwerp DC",
+            "target": "Germany",
+            "value": 5
+        },
+        {
+            "source": "Antwerp Production",
+            "target": "Czech Republic",
+            "value": 5
+        },
+        {
+            "source": "France",
+            "target": "Swift-Herzog",
+            "value": 5
+        },
+        {
+            "source": "Wroc\u00c5\u201aaw DC",
+            "target": "Home Battery",
+            "value": 5
+        },
+        {
+            "source": "EV Car Battery",
+            "target": "Lyon DC",
+            "value": 5
+        },
+        {
+            "source": "Germany",
+            "target": "Antwerp DC",
+            "value": 5
+        },
+        {
+            "source": "Mosciski Group",
+            "target": "Antwerp DC",
+            "value": 5
+        },
+        {
+            "source": "Germany",
+            "target": "Blanda-Dicki",
+            "value": 5
+        },
+        {
+            "source": "Germany",
+            "target": "Antwerp DC",
+            "value": 5
+        },
+        {
+            "source": "Wroc\u00c5\u201aaw DC",
+            "target": "Antwerp Production",
+            "value": 5
+        },
+        {
+            "source": "Home Battery",
+            "target": "Wroc\u00c5\u201aaw Production",
+            "value": 5
+        },
+        {
+            "source": "EV Car Battery",
+            "target": "Germany",
+            "value": 5
+        },
+        {
+            "source": "Belgium",
+            "target": "EV Car Battery",
+            "value": 5
+        },
+        {
+            "source": "Antwerp DC",
+            "target": "Prohaska-Batz",
+            "value": 5
+        },
+        {
+            "source": "Germany",
+            "target": "Antwerp DC",
+            "value": 5
+        },
+        {
+            "source": "Lyon DC",
+            "target": "France",
+            "value": 5
+        },
+        {
+            "source": "EV Car Battery",
+            "target": "Reichel Inc",
+            "value": 5
+        },
+        {
+            "source": "EV Car Battery",
+            "target": "Germany",
+            "value": 5
+        },
+        {
+            "source": "Lebsack-Prosacco",
+            "target": "Sweden",
+            "value": 5
+        },
+        {
+            "source": "Antwerp DC",
+            "target": "EV Car Battery",
+            "value": 5
+        },
+        {
+            "source": "Rowe Inc",
+            "target": "Home Battery",
+            "value": 5
+        },
+        {
+            "source": "EV Car Battery",
+            "target": "Wroc\u00c5\u201aaw DC",
+            "value": 5
+        },
+        {
+            "source": "Czech Republic",
+            "target": "Wroc\u00c5\u201aaw DC",
+            "value": 5
+        },
+        {
+            "source": "France",
+            "target": "Lyon DC",
+            "value": 5
+        },
+        {
+            "source": "Sweden",
+            "target": "Wroc\u00c5\u201aaw Production",
+            "value": 5
+        },
+        {
+            "source": "Farrell Group",
+            "target": "Wroc\u00c5\u201aaw DC",
+            "value": 5
+        },
+        {
+            "source": "Wroc\u00c5\u201aaw DC",
+            "target": "EV Car Battery",
+            "value": 5
+        },
+        {
+            "source": "Antwerp DC",
+            "target": "Netherlands",
+            "value": 5
+        },
+        {
+            "source": "Sweden",
+            "target": "G\u00c3\u00b6teborg DC",
+            "value": 5
+        },
+        {
+            "source": "Czech Republic",
+            "target": "Wroc\u00c5\u201aaw DC",
+            "value": 5
+        },
+        {
+            "source": "United Kingdom",
+            "target": "Birmingham DC",
+            "value": 5
+        },
+        {
+            "source": "EV Car Battery",
+            "target": "Schuppe Inc",
+            "value": 5
+        },
+        {
+            "source": "Wroc\u00c5\u201aaw Production",
+            "target": "Casper and Sons",
+            "value": 5
+        },
+        {
+            "source": "Home Battery",
+            "target": "Antwerp DC",
+            "value": 5
+        },
+        {
+            "source": "EV Car Battery",
+            "target": "Greece",
+            "value": 5
+        },
+        {
+            "source": "EV Car Battery",
+            "target": "Lyon DC",
+            "value": 5
+        },
+        {
+            "source": "Germany",
+            "target": "EV Car Battery",
+            "value": 5
+        },
+        {
+            "source": "EV Car Battery",
+            "target": "Littel-Gleason",
+            "value": 5
+        },
+        {
+            "source": "France",
+            "target": "Lyon DC",
+            "value": 5
+        },
+        {
+            "source": "Wroc\u00c5\u201aaw Production",
+            "target": "Koelpin-Pouros",
+            "value": 5
+        },
+        {
+            "source": "EV Car Battery",
+            "target": "Heller Group",
+            "value": 5
+        },
+        {
+            "source": "EV Car Battery",
+            "target": "Dicki-Rice",
+            "value": 5
+        },
+        {
+            "source": "Fay-Treutel",
+            "target": "Sweden",
+            "value": 5
+        },
+        {
+            "source": "Ledner-Hilpert",
+            "target": "Antwerp DC",
+            "value": 5
+        },
+        {
+            "source": "EV Car Battery",
+            "target": "Belgium",
+            "value": 5
+        },
+        {
+            "source": "Greece",
+            "target": "Wroc\u00c5\u201aaw DC",
+            "value": 5
+        },
+        {
+            "source": "Lyon DC",
+            "target": "EV Car Battery",
+            "value": 5
+        },
+        {
+            "source": "Germany",
+            "target": "EV Car Battery",
+            "value": 5
+        },
+        {
+            "source": "Moen-Zboncak",
+            "target": "EV Car Battery",
+            "value": 5
+        },
+        {
+            "source": "Hartmann and Sons",
+            "target": "Antwerp Production",
+            "value": 5
+        },
+        {
+            "source": "EV Car Battery",
+            "target": "Germany",
+            "value": 5
+        },
+        {
+            "source": "Germany",
+            "target": "EV Car Battery",
+            "value": 5
+        },
+        {
+            "source": "Sweden",
+            "target": "G\u00c3\u00b6teborg DC",
+            "value": 5
+        },
+        {
+            "source": "Spain",
+            "target": "Reichel Group",
+            "value": 5
+        },
+        {
+            "source": "Poland",
+            "target": "EV Car Battery",
+            "value": 5
+        },
+        {
+            "source": "Antwerp DC",
+            "target": "Germany",
+            "value": 5
+        },
+        {
+            "source": "EV Car Battery",
+            "target": "Germany",
+            "value": 5
+        },
+        {
+            "source": "France",
+            "target": "Lyon DC",
+            "value": 5
+        },
+        {
+            "source": "Lyon DC",
+            "target": "Portugal",
+            "value": 5
+        },
+        {
+            "source": "Davis Inc",
+            "target": "Home Battery",
+            "value": 5
+        },
+        {
+            "source": "Lyon DC",
+            "target": "Kuhn Inc",
+            "value": 5
+        },
+        {
+            "source": "Borer LLC",
+            "target": "Germany",
+            "value": 5
+        },
+        {
+            "source": "Kris and Sons",
+            "target": "Germany",
+            "value": 5
+        },
+        {
+            "source": "Germany",
+            "target": "EV Car Battery",
+            "value": 5
+        },
+        {
+            "source": "Crona LLC",
+            "target": "Sweden",
+            "value": 5
+        },
+        {
+            "source": "Zieme Group",
+            "target": "Germany",
+            "value": 5
+        },
+        {
+            "source": "Lyon DC",
+            "target": "Portugal",
+            "value": 5
+        },
+        {
+            "source": "Home Battery",
+            "target": "Reichel Inc",
+            "value": 5
+        },
+        {
+            "source": "Grady-Bernhard",
+            "target": "EV Car Battery",
+            "value": 5
+        },
+        {
+            "source": "United Kingdom",
+            "target": "EV Car Battery",
+            "value": 5
+        },
+        {
+            "source": "Wroc\u00c5\u201aaw DC",
+            "target": "Dietrich Group",
+            "value": 5
+        },
+        {
+            "source": "Home Battery",
+            "target": "Corkery-Armstrong",
+            "value": 5
+        },
+        {
+            "source": "Ruecker-Leannon",
+            "target": "Belgium",
+            "value": 5
+        },
+        {
+            "source": "Wroc\u00c5\u201aaw DC",
+            "target": "Greece",
+            "value": 5
+        },
+        {
+            "source": "Antwerp DC",
+            "target": "EV Car Battery",
+            "value": 5
+        },
+        {
+            "source": "Antwerp DC",
+            "target": "Antwerp Production",
+            "value": 5
+        },
+        {
+            "source": "G\u00c3\u00b6teborg DC",
+            "target": "Bradtke-Pagac",
+            "value": 5
+        },
+        {
+            "source": "G\u00c3\u00b6teborg DC",
+            "target": "EV Car Battery",
+            "value": 5
+        },
+        {
+            "source": "Antwerp DC",
+            "target": "Oberbrunner-Predovic",
+            "value": 5
+        },
+        {
+            "source": "Home Battery",
+            "target": "Germany",
+            "value": 5
+        },
+        {
+            "source": "France",
+            "target": "EV Car Battery",
+            "value": 5
+        },
+        {
+            "source": "Ferry-Green",
+            "target": "Home Battery",
+            "value": 5
+        },
+        {
+            "source": "Leuschke-Bailey",
+            "target": "EV Car Battery",
+            "value": 5
+        },
+        {
+            "source": "EV Car Battery",
+            "target": "Schneider-Wunsch",
+            "value": 5
+        },
+        {
+            "source": "Antwerp DC",
+            "target": "Bernhard-Bartell",
+            "value": 5
+        },
+        {
+            "source": "Muller-Lebsack",
+            "target": "G\u00c3\u00b6teborg DC",
+            "value": 5
+        },
+        {
+            "source": "Reinger and Sons",
+            "target": "United Kingdom",
+            "value": 5
+        },
+        {
+            "source": "Wroc\u00c5\u201aaw Production",
+            "target": "Fritsch LLC",
+            "value": 5
+        },
+        {
+            "source": "Germany",
+            "target": "EV Car Battery",
+            "value": 5
+        },
+        {
+            "source": "EV Car Battery",
+            "target": "Finland",
+            "value": 5
+        },
+        {
+            "source": "Antwerp DC",
+            "target": "Germany",
+            "value": 5
+        },
+        {
+            "source": "Sawayn and Sons",
+            "target": "Slovenia",
+            "value": 5
+        },
+        {
+            "source": "Greece",
+            "target": "Home Battery",
+            "value": 5
+        },
+        {
+            "source": "Antwerp DC",
+            "target": "Belgium",
+            "value": 5
+        },
+        {
+            "source": "Kiehn and Sons",
+            "target": "Slovenia",
+            "value": 5
+        },
+        {
+            "source": "Germany",
+            "target": "Lyon Production",
+            "value": 5
+        },
+        {
+            "source": "Brekke and Sons",
+            "target": "Germany",
+            "value": 5
+        },
+        {
+            "source": "France",
+            "target": "EV Car Battery",
+            "value": 5
+        },
+        {
+            "source": "Antwerp Production",
+            "target": "Home Battery",
+            "value": 5
+        },
+        {
+            "source": "Home Battery",
+            "target": "Antwerp DC",
+            "value": 5
+        },
+        {
+            "source": "Germany",
+            "target": "Antwerp DC",
+            "value": 5
+        },
+        {
+            "source": "EV Car Battery",
+            "target": "Norway",
+            "value": 5
+        },
+        {
+            "source": "Schmitt-Hudson",
+            "target": "EV Car Battery",
+            "value": 5
+        },
+        {
+            "source": "G\u00c3\u00b6teborg DC",
+            "target": "Brown-Hamill",
+            "value": 5
+        },
+        {
+            "source": "Croatia",
+            "target": "Balistreri and Sons",
+            "value": 5
+        },
+        {
+            "source": "Antwerp Production",
+            "target": "EV Car Battery",
+            "value": 5
+        },
+        {
+            "source": "Wroc\u00c5\u201aaw DC",
+            "target": "Poland",
+            "value": 5
+        },
+        {
+            "source": "G\u00c3\u00b6teborg DC",
+            "target": "EV Car Battery",
+            "value": 5
+        },
+        {
+            "source": "Davis Inc",
+            "target": "Antwerp DC",
+            "value": 5
+        },
+        {
+            "source": "Antwerp DC",
+            "target": "Germany",
+            "value": 5
+        },
+        {
+            "source": "EV Car Battery",
+            "target": "Wroc\u00c5\u201aaw DC",
+            "value": 5
+        },
+        {
+            "source": "Collins Group",
+            "target": "Poland",
+            "value": 5
+        },
+        {
+            "source": "EV Car Battery",
+            "target": "Schoen Group",
+            "value": 5
+        },
+        {
+            "source": "EV Car Battery",
+            "target": "Poland",
+            "value": 5
+        },
+        {
+            "source": "Antwerp DC",
+            "target": "Wroc\u00c5\u201aaw Production",
+            "value": 5
+        },
+        {
+            "source": "Durgan-Gleichner",
+            "target": "Antwerp DC",
+            "value": 5
+        },
+        {
+            "source": "EV Car Battery",
+            "target": "Blanda-Dicki",
+            "value": 5
+        },
+        {
+            "source": "Barrows Group",
+            "target": "Lyon DC",
+            "value": 5
+        },
+        {
+            "source": "Germany",
+            "target": "Spinka Group",
+            "value": 5
+        },
+        {
+            "source": "Rau-Osinski",
+            "target": "G\u00c3\u00b6teborg DC",
+            "value": 5
+        },
+        {
+            "source": "Kertzmann Inc",
+            "target": "Antwerp DC",
+            "value": 5
+        },
+        {
+            "source": "Cormier LLC",
+            "target": "Norway",
+            "value": 5
+        },
+        {
+            "source": "Wroc\u00c5\u201aaw DC",
+            "target": "Poland",
+            "value": 5
+        },
+        {
+            "source": "EV Car Battery",
+            "target": "Portugal",
+            "value": 5
+        },
+        {
+            "source": "Bogan-Emmerich",
+            "target": "Antwerp Production",
+            "value": 5
+        },
+        {
+            "source": "Germany",
+            "target": "Jast-West",
+            "value": 5
+        },
+        {
+            "source": "Block and Sons",
+            "target": "Sweden",
+            "value": 5
+        },
+        {
+            "source": "EV Car Battery",
+            "target": "Wolf-Schinner",
+            "value": 5
+        },
+        {
+            "source": "Germany",
+            "target": "Koelpin LLC",
+            "value": 5
+        },
+        {
+            "source": "Willms-Lockman",
+            "target": "Poland",
+            "value": 5
+        },
+        {
+            "source": "Hilpert Inc",
+            "target": "Wroc\u00c5\u201aaw Production",
+            "value": 5
+        },
+        {
+            "source": "EV Car Battery",
+            "target": "Lyon DC",
+            "value": 5
+        },
+        {
+            "source": "D'Amore-Roberts",
+            "target": "EV Car Battery",
+            "value": 5
+        },
+        {
+            "source": "Lyon DC",
+            "target": "France",
+            "value": 5
+        },
+        {
+            "source": "Antwerp DC",
+            "target": "EV Car Battery",
+            "value": 5
+        },
+        {
+            "source": "Batz Inc",
+            "target": "Lyon Production",
+            "value": 5
+        },
+        {
+            "source": "Germany",
+            "target": "Little-Hintz",
+            "value": 5
+        },
+        {
+            "source": "Slovenia",
+            "target": "Lyon DC",
+            "value": 5
+        },
+        {
+            "source": "Portugal",
+            "target": "EV Car Battery",
+            "value": 5
+        },
+        {
+            "source": "Cruickshank-Schaden",
+            "target": "EV Car Battery",
+            "value": 5
+        },
+        {
+            "source": "France",
+            "target": "Yundt and Sons",
+            "value": 5
+        },
+        {
+            "source": "Home Battery",
+            "target": "Germany",
+            "value": 5
+        },
+        {
+            "source": "Greenholt Group",
+            "target": "Antwerp DC",
+            "value": 5
+        },
+        {
+            "source": "Wroc\u00c5\u201aaw DC",
+            "target": "Home Battery",
+            "value": 5
+        },
+        {
+            "source": "Heathcote-Romaguera",
+            "target": "Antwerp DC",
+            "value": 5
+        },
+        {
+            "source": "Germany",
+            "target": "Antwerp DC",
+            "value": 5
+        },
+        {
+            "source": "G\u00c3\u00b6teborg DC",
+            "target": "Latvia",
+            "value": 5
+        },
+        {
+            "source": "Antwerp DC",
+            "target": "Germany",
+            "value": 5
+        },
+        {
+            "source": "Antwerp Production",
+            "target": "Belgium",
+            "value": 5
+        },
+        {
+            "source": "G\u00c3\u00b6teborg DC",
+            "target": "Sweden",
+            "value": 5
+        },
+        {
+            "source": "Monahan-Dickinson",
+            "target": "Germany",
+            "value": 5
+        },
+        {
+            "source": "Germany",
+            "target": "EV Car Battery",
+            "value": 5
+        },
+        {
+            "source": "Germany",
+            "target": "Antwerp DC",
+            "value": 5
+        },
+        {
+            "source": "O'Conner-Stokes",
+            "target": "Antwerp DC",
+            "value": 5
+        },
+        {
+            "source": "EV Car Battery",
+            "target": "Spain",
+            "value": 5
+        },
+        {
+            "source": "Wroc\u00c5\u201aaw DC",
+            "target": "Czech Republic",
+            "value": 5
+        },
+        {
+            "source": "Hills LLC",
+            "target": "Lyon DC",
+            "value": 5
+        },
+        {
+            "source": "Larson LLC",
+            "target": "Wroc\u00c5\u201aaw DC",
+            "value": 5
+        },
+        {
+            "source": "Lyon Production",
+            "target": "Greece",
+            "value": 5
+        },
+        {
+            "source": "EV Car Battery",
+            "target": "Antwerp DC",
+            "value": 5
+        },
+        {
+            "source": "EV Car Battery",
+            "target": "Greece",
+            "value": 5
+        },
+        {
+            "source": "Hungary",
+            "target": "EV Car Battery",
+            "value": 5
+        },
+        {
+            "source": "Norway",
+            "target": "Bergnaum-Bosco",
+            "value": 5
+        },
+        {
+            "source": "Germany",
+            "target": "EV Car Battery",
+            "value": 5
+        },
+        {
+            "source": "Lyon DC",
+            "target": "Home Battery",
+            "value": 5
+        },
+        {
+            "source": "G\u00c3\u00b6teborg DC",
+            "target": "EV Car Battery",
+            "value": 5
+        },
+        {
+            "source": "Schmeler Group",
+            "target": "Norway",
+            "value": 5
+        },
+        {
+            "source": "EV Car Battery",
+            "target": "McCullough-Rohan",
+            "value": 5
+        },
+        {
+            "source": "Parker Inc",
+            "target": "France",
+            "value": 5
+        },
+        {
+            "source": "Croatia",
+            "target": "EV Car Battery",
+            "value": 5
+        },
+        {
+            "source": "G\u00c3\u00b6teborg DC",
+            "target": "EV Car Battery",
+            "value": 5
+        },
+        {
+            "source": "EV Car Battery",
+            "target": "Lyon DC",
+            "value": 5
+        },
+        {
+            "source": "Home Battery",
+            "target": "Germany",
+            "value": 5
+        },
+        {
+            "source": "Zieme Group",
+            "target": "Germany",
+            "value": 5
+        },
+        {
+            "source": "Home Battery",
+            "target": "Norway",
+            "value": 5
+        },
+        {
+            "source": "Antwerp DC",
+            "target": "EV Car Battery",
+            "value": 5
+        },
+        {
+            "source": "Germany",
+            "target": "Wroc\u00c5\u201aaw Production",
+            "value": 5
+        },
+        {
+            "source": "King Group",
+            "target": "EV Car Battery",
+            "value": 5
+        },
+        {
+            "source": "Greenholt-O'Kon",
+            "target": "Antwerp DC",
+            "value": 5
+        },
+        {
+            "source": "Germany",
+            "target": "Gibson LLC",
+            "value": 5
+        },
+        {
+            "source": "EV Car Battery",
+            "target": "Germany",
+            "value": 5
+        },
+        {
+            "source": "Lyon DC",
+            "target": "Fritsch LLC",
+            "value": 5
+        },
+        {
+            "source": "Wroc\u00c5\u201aaw DC",
+            "target": "Stehr-McDermott",
+            "value": 5
+        },
+        {
+            "source": "Greece",
+            "target": "EV Car Battery",
+            "value": 5
+        },
+        {
+            "source": "Antwerp Production",
+            "target": "Finland",
+            "value": 5
+        },
+        {
+            "source": "EV Car Battery",
+            "target": "Zulauf-Ryan",
+            "value": 5
+        },
+        {
+            "source": "EV Car Battery",
+            "target": "France",
+            "value": 5
+        },
+        {
+            "source": "Home Battery",
+            "target": "Prohaska LLC",
+            "value": 5
+        },
+        {
+            "source": "Germany",
+            "target": "Wiza LLC",
+            "value": 5
+        },
+        {
+            "source": "Antwerp Production",
+            "target": "Germany",
+            "value": 5
+        },
+        {
+            "source": "G\u00c3\u00b6teborg DC",
+            "target": "Norway",
+            "value": 5
+        },
+        {
+            "source": "Germany",
+            "target": "EV Car Battery",
+            "value": 5
+        },
+        {
+            "source": "Zieme Group",
+            "target": "Home Battery",
+            "value": 5
+        },
+        {
+            "source": "EV Car Battery",
+            "target": "Antwerp Production",
+            "value": 5
+        },
+        {
+            "source": "EV Car Battery",
+            "target": "Germany",
+            "value": 5
+        },
+        {
+            "source": "Lyon DC",
+            "target": "Wroc\u00c5\u201aaw Production",
+            "value": 5
+        },
+        {
+            "source": "EV Car Battery",
+            "target": "Dooley-Kirlin",
+            "value": 5
+        },
+        {
+            "source": "EV Car Battery",
+            "target": "G\u00c3\u00b6teborg DC",
+            "value": 5
+        },
+        {
+            "source": "EV Car Battery",
+            "target": "Bailey Group",
+            "value": 5
+        },
+        {
+            "source": "Gerlach-Sanford",
+            "target": "France",
+            "value": 5
+        },
+        {
+            "source": "Home Battery",
+            "target": "Zboncak-Botsford",
+            "value": 5
+        },
+        {
+            "source": "Batz Group",
+            "target": "Lyon Production",
+            "value": 5
+        },
+        {
+            "source": "VonRueden LLC",
+            "target": "EV Car Battery",
+            "value": 5
+        },
+        {
+            "source": "EV Car Battery",
+            "target": "Hilpert and Sons",
+            "value": 5
+        },
+        {
+            "source": "Leuschke and Sons",
+            "target": "G\u00c3\u00b6teborg DC",
+            "value": 5
+        },
+        {
+            "source": "Greece",
+            "target": "Wroc\u00c5\u201aaw DC",
+            "value": 5
+        },
+        {
+            "source": "Home Battery",
+            "target": "Belgium",
+            "value": 5
+        },
+        {
+            "source": "France",
+            "target": "Kuhn Inc",
+            "value": 5
+        },
+        {
+            "source": "Bergnaum Inc",
+            "target": "Czech Republic",
+            "value": 5
+        },
+        {
+            "source": "Antwerp DC",
+            "target": "EV Car Battery",
+            "value": 5
+        },
+        {
+            "source": "Germany",
+            "target": "Home Battery",
+            "value": 5
+        },
+        {
+            "source": "Lyon Production",
+            "target": "Germany",
+            "value": 5
+        },
+        {
+            "source": "G\u00c3\u00b6teborg DC",
+            "target": "Thiel-Auer",
+            "value": 5
+        },
+        {
+            "source": "EV Car Battery",
+            "target": "Schuster-Price",
+            "value": 5
+        },
+        {
+            "source": "Antwerp DC",
+            "target": "Wroc\u00c5\u201aaw Production",
+            "value": 5
+        },
+        {
+            "source": "Antwerp DC",
+            "target": "EV Car Battery",
+            "value": 5
+        },
+        {
+            "source": "Finland",
+            "target": "EV Car Battery",
+            "value": 5
+        },
+        {
+            "source": "Lyon DC",
+            "target": "France",
+            "value": 5
+        },
+        {
+            "source": "Lyon DC",
+            "target": "EV Car Battery",
+            "value": 5
+        },
+        {
+            "source": "EV Car Battery",
+            "target": "Wroc\u00c5\u201aaw DC",
+            "value": 5
+        },
+        {
+            "source": "Lyon Production",
+            "target": "Germany",
+            "value": 5
+        },
+        {
+            "source": "Home Battery",
+            "target": "France",
+            "value": 5
+        },
+        {
+            "source": "Paucek LLC",
+            "target": "Antwerp DC",
+            "value": 5
+        },
+        {
+            "source": "Germany",
+            "target": "Wroc\u00c5\u201aaw Production",
+            "value": 5
+        },
+        {
+            "source": "Bradtke-Pagac",
+            "target": "G\u00c3\u00b6teborg DC",
+            "value": 5
+        },
+        {
+            "source": "Belgium",
+            "target": "Wroc\u00c5\u201aaw Production",
+            "value": 5
+        },
+        {
+            "source": "EV Car Battery",
+            "target": "France",
+            "value": 5
+        },
+        {
+            "source": "Germany",
+            "target": "Antwerp DC",
+            "value": 5
+        },
+        {
+            "source": "Sweden",
+            "target": "Kemmer-Pouros",
+            "value": 5
+        },
+        {
+            "source": "Antwerp DC",
+            "target": "Home Battery",
+            "value": 5
+        },
+        {
+            "source": "Wroc\u00c5\u201aaw DC",
+            "target": "EV Car Battery",
+            "value": 5
+        },
+        {
+            "source": "Sweden",
+            "target": "Rowe Inc",
+            "value": 5
+        },
+        {
+            "source": "Belgium",
+            "target": "EV Car Battery",
+            "value": 5
+        },
+        {
+            "source": "Germany",
+            "target": "Antwerp DC",
+            "value": 5
+        },
+        {
+            "source": "Abbott-Hintz",
+            "target": "France",
+            "value": 5
+        },
+        {
+            "source": "Olson Group",
+            "target": "Portugal",
+            "value": 5
+        },
+        {
+            "source": "Germany",
+            "target": "EV Car Battery",
+            "value": 5
+        },
+        {
+            "source": "Antwerp DC",
+            "target": "EV Car Battery",
+            "value": 5
+        },
+        {
+            "source": "Sauer-Romaguera",
+            "target": "Wroc\u00c5\u201aaw Production",
+            "value": 5
+        },
+        {
+            "source": "EV Car Battery",
+            "target": "G\u00c3\u00b6teborg DC",
+            "value": 5
+        },
+        {
+            "source": "Germany",
+            "target": "Antwerp Production",
+            "value": 5
+        },
+        {
+            "source": "Wroc\u00c5\u201aaw Production",
+            "target": "EV Car Battery",
+            "value": 5
+        },
+        {
+            "source": "EV Car Battery",
+            "target": "Maggio and Sons",
+            "value": 5
+        },
+        {
+            "source": "Sweden",
+            "target": "EV Car Battery",
+            "value": 5
+        },
+        {
+            "source": "Wroc\u00c5\u201aaw DC",
+            "target": "Greece",
+            "value": 5
+        },
+        {
+            "source": "EV Car Battery",
+            "target": "Koelpin-Pouros",
+            "value": 5
+        },
+        {
+            "source": "G\u00c3\u00b6teborg DC",
+            "target": "Home Battery",
+            "value": 5
+        },
+        {
+            "source": "EV Car Battery",
+            "target": "Antwerp DC",
+            "value": 5
+        },
+        {
+            "source": "G\u00c3\u00b6teborg DC",
+            "target": "Orn and Sons",
+            "value": 5
+        },
+        {
+            "source": "EV Car Battery",
+            "target": "Schmitt LLC",
+            "value": 5
+        },
+        {
+            "source": "Home Battery",
+            "target": "Greece",
+            "value": 5
+        },
+        {
+            "source": "Belgium",
+            "target": "Antwerp DC",
+            "value": 5
+        },
+        {
+            "source": "Antwerp DC",
+            "target": "Antwerp Production",
+            "value": 5
+        },
+        {
+            "source": "Wintheiser-Wilderman",
+            "target": "Lyon Production",
+            "value": 5
+        },
+        {
+            "source": "Sweden",
+            "target": "Nader-Tremblay",
+            "value": 5
+        },
+        {
+            "source": "Germany",
+            "target": "EV Car Battery",
+            "value": 5
+        },
+        {
+            "source": "Antwerp DC",
+            "target": "Germany",
+            "value": 5
+        },
+        {
+            "source": "Netherlands",
+            "target": "EV Car Battery",
+            "value": 5
+        },
+        {
+            "source": "EV Car Battery",
+            "target": "Wroc\u00c5\u201aaw Production",
+            "value": 5
+        },
+        {
+            "source": "Wroc\u00c5\u201aaw DC",
+            "target": "Czech Republic",
+            "value": 5
+        },
+        {
+            "source": "Antwerp DC",
+            "target": "Schmeler-Feil",
+            "value": 5
+        },
+        {
+            "source": "France",
+            "target": "Lyon DC",
+            "value": 5
+        },
+        {
+            "source": "EV Car Battery",
+            "target": "Wroc\u00c5\u201aaw Production",
+            "value": 5
+        },
+        {
+            "source": "Wroc\u00c5\u201aaw DC",
+            "target": "Koss-Daniel",
+            "value": 5
+        },
+        {
+            "source": "Germany",
+            "target": "EV Car Battery",
+            "value": 5
+        },
+        {
+            "source": "EV Car Battery",
+            "target": "Poland",
+            "value": 5
+        },
+        {
+            "source": "EV Car Battery",
+            "target": "G\u00c3\u00b6teborg DC",
+            "value": 5
+        },
+        {
+            "source": "Jacobi Group",
+            "target": "Lyon DC",
+            "value": 5
+        },
+        {
+            "source": "Lyon Production",
+            "target": "G\u00c3\u00b6teborg DC",
+            "value": 5
+        },
+        {
+            "source": "Home Battery",
+            "target": "Germany",
+            "value": 5
+        },
+        {
+            "source": "Wroc\u00c5\u201aaw Production",
+            "target": "United Kingdom",
+            "value": 5
+        },
+        {
+            "source": "EV Car Battery",
+            "target": "Franecki-Koelpin",
+            "value": 5
+        },
+        {
+            "source": "Reichel-Beatty",
+            "target": "Germany",
+            "value": 5
+        },
+        {
+            "source": "France",
+            "target": "EV Car Battery",
+            "value": 5
+        },
+        {
+            "source": "Russel-Weber",
+            "target": "EV Car Battery",
+            "value": 5
+        },
+        {
+            "source": "EV Car Battery",
+            "target": "Portugal",
+            "value": 5
+        },
+        {
+            "source": "Antwerp DC",
+            "target": "Hintz-Purdy",
+            "value": 5
+        },
+        {
+            "source": "Antwerp DC",
+            "target": "Volkman-Hessel",
+            "value": 5
+        },
+        {
+            "source": "Kling-Walker",
+            "target": "Germany",
+            "value": 5
+        },
+        {
+            "source": "Antwerp Production",
+            "target": "Murphy-Hirthe",
+            "value": 5
+        },
+        {
+            "source": "Home Battery",
+            "target": "Poland",
+            "value": 5
+        },
+        {
+            "source": "Willms Group",
+            "target": "Germany",
+            "value": 5
+        },
+        {
+            "source": "Antwerp DC",
+            "target": "Belgium",
+            "value": 5
+        },
+        {
+            "source": "Kris-Langosh",
+            "target": "Sweden",
+            "value": 5
+        },
+        {
+            "source": "Lyon DC",
+            "target": "Wroc\u00c5\u201aaw Production",
+            "value": 5
+        },
+        {
+            "source": "EV Car Battery",
+            "target": "Sweden",
+            "value": 5
+        },
+        {
+            "source": "EV Car Battery",
+            "target": "France",
+            "value": 5
+        },
+        {
+            "source": "G\u00c3\u00b6teborg DC",
+            "target": "Shields Group",
+            "value": 5
+        },
+        {
+            "source": "Finland",
+            "target": "Koelpin-Pouros",
+            "value": 5
+        },
+        {
+            "source": "Denmark",
+            "target": "Hoppe-Ernser",
+            "value": 5
+        },
+        {
+            "source": "Wroc\u00c5\u201aaw DC",
+            "target": "EV Car Battery",
+            "value": 5
+        },
+        {
+            "source": "Antwerp DC",
+            "target": "EV Car Battery",
+            "value": 5
+        },
+        {
+            "source": "G\u00c3\u00b6teborg DC",
+            "target": "Antwerp Production",
+            "value": 5
+        },
+        {
+            "source": "Home Battery",
+            "target": "Lyon Production",
+            "value": 5
+        },
+        {
+            "source": "Barrows Group",
+            "target": "Lyon DC",
+            "value": 5
+        },
+        {
+            "source": "Mohr Inc",
+            "target": "EV Car Battery",
+            "value": 5
+        },
+        {
+            "source": "Wroc\u00c5\u201aaw Production",
+            "target": "Lyon DC",
+            "value": 5
+        },
+        {
+            "source": "G\u00c3\u00b6teborg DC",
+            "target": "EV Car Battery",
+            "value": 5
+        },
+        {
+            "source": "Lockman-Bechtelar",
+            "target": "Latvia",
+            "value": 5
+        },
+        {
+            "source": "Schowalter-Bosco",
+            "target": "EV Car Battery",
+            "value": 5
+        },
+        {
+            "source": "EV Car Battery",
+            "target": "Spencer and Sons",
+            "value": 5
+        },
+        {
+            "source": "G\u00c3\u00b6teborg DC",
+            "target": "McKenzie-McCullough",
+            "value": 5
+        },
+        {
+            "source": "Wroc\u00c5\u201aaw DC",
+            "target": "EV Car Battery",
+            "value": 5
+        },
+        {
+            "source": "EV Car Battery",
+            "target": "Lyon DC",
+            "value": 5
+        },
+        {
+            "source": "Antwerp DC",
+            "target": "Germany",
+            "value": 5
+        },
+        {
+            "source": "EV Car Battery",
+            "target": "G\u00c3\u00b6teborg DC",
+            "value": 5
+        },
+        {
+            "source": "McDermott-Conn",
+            "target": "G\u00c3\u00b6teborg DC",
+            "value": 5
+        },
+        {
+            "source": "Portugal",
+            "target": "Lyon DC",
+            "value": 5
+        },
+        {
+            "source": "Wroc\u00c5\u201aaw DC",
+            "target": "EV Car Battery",
+            "value": 5
+        },
+        {
+            "source": "Hungary",
+            "target": "Wroc\u00c5\u201aaw DC",
+            "value": 5
+        },
+        {
+            "source": "EV Car Battery",
+            "target": "Klocko-Runte",
+            "value": 5
+        },
+        {
+            "source": "EV Car Battery",
+            "target": "Schultz Inc",
+            "value": 5
+        },
+        {
+            "source": "Sweden",
+            "target": "EV Car Battery",
+            "value": 5
+        },
+        {
+            "source": "Sawayn Group",
+            "target": "EV Car Battery",
+            "value": 5
+        },
+        {
+            "source": "Greece",
+            "target": "Wroc\u00c5\u201aaw DC",
+            "value": 5
+        },
+        {
+            "source": "Antwerp DC",
+            "target": "Germany",
+            "value": 5
+        },
+        {
+            "source": "EV Car Battery",
+            "target": "Birmingham DC",
+            "value": 5
+        },
+        {
+            "source": "Lyon DC",
+            "target": "Portugal",
+            "value": 5
+        },
+        {
+            "source": "Bartoletti-Stehr",
+            "target": "Antwerp Production",
+            "value": 5
+        },
+        {
+            "source": "Antwerp Production",
+            "target": "Wroc\u00c5\u201aaw DC",
+            "value": 5
+        },
+        {
+            "source": "Germany",
+            "target": "Antwerp DC",
+            "value": 5
+        },
+        {
+            "source": "Norway",
+            "target": "G\u00c3\u00b6teborg DC",
+            "value": 5
+        },
+        {
+            "source": "EV Car Battery",
+            "target": "Germany",
+            "value": 5
+        },
+        {
+            "source": "Wroc\u00c5\u201aaw Production",
+            "target": "EV Car Battery",
+            "value": 5
+        },
+        {
+            "source": "Wolf Group",
+            "target": "Birmingham DC",
+            "value": 5
+        },
+        {
+            "source": "Home Battery",
+            "target": "Schinner-Lueilwitz",
+            "value": 5
+        },
+        {
+            "source": "Estonia",
+            "target": "EV Car Battery",
+            "value": 5
+        },
+        {
+            "source": "Pollich-Boyle",
+            "target": "Home Battery",
+            "value": 5
+        },
+        {
+            "source": "EV Car Battery",
+            "target": "Block and Sons",
+            "value": 5
+        },
+        {
+            "source": "Wroc\u00c5\u201aaw DC",
+            "target": "EV Car Battery",
+            "value": 5
+        },
+        {
+            "source": "Lyon DC",
+            "target": "Upton Inc",
+            "value": 5
+        },
+        {
+            "source": "G\u00c3\u00b6teborg DC",
+            "target": "EV Car Battery",
+            "value": 5
+        },
+        {
+            "source": "Lemke-Zieme",
+            "target": "Sweden",
+            "value": 5
+        },
+        {
+            "source": "Portugal",
+            "target": "Lyon DC",
+            "value": 5
+        },
+        {
+            "source": "Lebsack-Wintheiser",
+            "target": "G\u00c3\u00b6teborg DC",
+            "value": 5
+        },
+        {
+            "source": "France",
+            "target": "Lyon DC",
+            "value": 5
+        },
+        {
+            "source": "EV Car Battery",
+            "target": "Antwerp DC",
+            "value": 5
+        },
+        {
+            "source": "Germany",
+            "target": "EV Car Battery",
+            "value": 5
+        },
+        {
+            "source": "Antwerp DC",
+            "target": "EV Car Battery",
+            "value": 5
+        },
+        {
+            "source": "EV Car Battery",
+            "target": "Wroc\u00c5\u201aaw Production",
+            "value": 5
+        },
+        {
+            "source": "EV Car Battery",
+            "target": "Rau and Sons",
+            "value": 5
+        },
+        {
+            "source": "Home Battery",
+            "target": "Czech Republic",
+            "value": 5
+        },
+        {
+            "source": "Bartell-Bayer",
+            "target": "EV Car Battery",
+            "value": 5
+        },
+        {
+            "source": "Germany",
+            "target": "Antwerp DC",
+            "value": 5
+        },
+        {
+            "source": "Germany",
+            "target": "Bayer-Nienow",
+            "value": 5
+        },
+        {
+            "source": "Germany",
+            "target": "Home Battery",
+            "value": 5
+        },
+        {
+            "source": "Gibson LLC",
+            "target": "Germany",
+            "value": 5
+        },
+        {
+            "source": "Antwerp Production",
+            "target": "Antwerp DC",
+            "value": 5
+        },
+        {
+            "source": "Jacobi Group",
+            "target": "Portugal",
+            "value": 5
+        },
+        {
+            "source": "Italy",
+            "target": "EV Car Battery",
+            "value": 5
+        }
+    ]
+}
